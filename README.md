@@ -1,6 +1,8 @@
 # climate_change
 
-Research Questions
+# Kanban board: [here](https://github.com/TUB-NLP-OpenData/climate_change/projects/2) 
+
+Initial Research Questions:
 
 * Do people believe in climate change?
 * Who are the “deniers” / “warmists”?
