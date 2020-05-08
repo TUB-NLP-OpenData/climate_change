@@ -1,8 +1,8 @@
 # Climate Change
-there is an increasing politicization of climate science in an effort to delegitimize the scientific consensus about climate change; this is carried out mostly by vested-interest groups through organized disinformation campaigns and fake news. On a macro scale, this is an important issue because legislators tend to act according to what they perceive to be the concerns of their electoral base. Thus, public knowledge about climate change can push legislation towards policies that will tackle the issue and counteract the commercial lobbying from industries.
+There is an increasing politicization of climate science in an effort to delegitimize the scientific consensus about climate change; this is carried out mostly by vested-interest groups through organized disinformation campaigns and fake news. On a macro scale, this is an important issue because legislators tend to act according to what they perceive to be the concerns of their electoral base. Thus, public knowledge about climate change can push legislation towards policies that will tackle the issue and counteract the commercial lobbying from industries.
 In short, the student will dive deep into DS in order to understand the people's perception about Climate Change with a view of designing strategies and education tools to help mitigate the dissemination of false news on the internet.
 
-## Kanban board: [here](https://github.com/TUB-NLP-OpenData/climate_change/projects/2) 
+## Project: Kanban board [here](https://github.com/TUB-NLP-OpenData/climate_change/projects/2) 
 
 ## Initial Research Questions:
 
@@ -16,4 +16,6 @@ In short, the student will dive deep into DS in order to understand the people's
   * Alarmed, Concerned, Cautious,Disengaged, Doubtful, Dismissive
 * Attitudes to science and risk?
   * Sceptics, Mainstream, Radicals
+  
+  
 
