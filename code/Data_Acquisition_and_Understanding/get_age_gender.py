@@ -6,9 +6,9 @@ import pandas as pd
 from pyagender import PyAgender
 
 
-path_raw_data = "../../Sample_Data/Processed/tweets.jsonl"
-path_img_data = "../../Sample_Data/Raw/profile_imgs/"
-path_out_csv = "../../Sample_Data/Processed/age_gender.csv"
+path_raw_data = "../../data/Processed/tweets.jsonl"
+path_img_data = "../../data/Raw/profile_imgs/"
+path_out_csv = "../../data/Processed/age_gender.csv"
 
 agender = PyAgender()
 
