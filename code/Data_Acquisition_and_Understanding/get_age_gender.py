@@ -8,7 +8,7 @@ from pyagender import PyAgender
 
 path_raw_data = "../../Sample_Data/Processed/tweets.jsonl"
 path_img_data = "../../Sample_Data/Raw/profile_imgs/"
-path_out_csv = "../../Sample_Data/Processed/demographics.csv"
+path_out_csv = "../../Sample_Data/Processed/age_gender.csv"
 
 agender = PyAgender()
 
