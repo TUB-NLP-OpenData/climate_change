@@ -6,3 +6,7 @@ In each directory, there is a markdown file, which lists all datasets in each di
 
 
 
+## Hydrate tweets
+Twarc's hydrate command will read a file of tweet identifiers and write out the tweet JSON for them using Twitter's status/lookup API.
+
+twarc hydrate Raw/ids.txt > Processed/tweets.jsonl

@@ -21,5 +21,5 @@ In short, the student will dive deep into DS in order to understand the people's
 * Representativeness of Abortion Legislation Debate on Twitter: A Case Study in Argentina and Chile. https://dl.acm.org/doi/fullHtml/10.1145/3366424.3383561
 * Who Tweets? Deriving the Demographic Characteristics of Age, Occupation and Social Class from Twitter User Meta-Data - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0115545
 * Beyond ‘deniers’ and ‘believers’: Towards a map of the politics of climate change.
-
+* Detecting Climate Change Deniers on Twitter Using a Deep Neural Network
 
