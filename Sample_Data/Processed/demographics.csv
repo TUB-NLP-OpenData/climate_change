@@ -1,0 +1,1001 @@
+,id,age,gender,gender_predicted_value,location,profile_img_url
+0,1178458239513419777,32.47263114205998,m,0.1283005326986313,,http://pbs.twimg.com/profile_images/1256573450149261314/a9QRNpXz.jpg
+1,1178458261550440449,37.107082338712644,m,0.4459036886692047,,http://pbs.twimg.com/profile_images/1220912962757693442/NPmyAbAD.jpg
+2,1178458265056763904,-1.0,no_face,-1.0,Seattle,http://pbs.twimg.com/profile_images/1196528527719317504/9As4qLa3.jpg
+3,1178458286640623616,-1.0,no_face,-1.0,"San Francisco, CA",http://pbs.twimg.com/profile_images/1257403866569519105/U6S6wAoN.jpg
+4,1178458313496899584,30.803830219190786,f,0.9472141265869141,"New Jersey, USA",http://pbs.twimg.com/profile_images/928157161859010560/8QMQx53c.jpg
+5,1178458349827956737,-1.0,no_face,-1.0,,http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+6,1178458373496418304,-1.0,no_face,-1.0,"Saskatoon, Saskatchewan",http://pbs.twimg.com/profile_images/1094355701/temp.jpg
+7,1178458379640950785,-1.0,no_face,-1.0,,http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+8,1178458387337695238,39.05477174187217,m,0.04597470536828041,,http://pbs.twimg.com/profile_images/709986354277519360/NS3Lk6rH.jpg
+9,1178458399945756674,14.377623500658956,m,0.47659000754356384,"Vermont, USA",http://pbs.twimg.com/profile_images/1204496542696181762/lMwxZt42.jpg
+10,1178458402302783489,-1.0,no_face,-1.0,Perth W A,http://pbs.twimg.com/profile_images/2540997225/image.jpg
+11,1178458426172723200,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/436873079227027456/Y_jKP52_.jpeg
+12,1178458427372265472,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1796938616/image.jpg
+13,1178458435874111488,-1.0,no_face,-1.0,"La Jolla, Calif.",http://pbs.twimg.com/profile_images/768234363687276545/ElNITopO.jpg
+14,1178458449300078593,-1.0,no_face,-1.0,London,http://pbs.twimg.com/profile_images/2210577533/small-1174647058_m.gif
+15,1178458449736171520,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1221628001076383745/YK6LHDj7.jpg
+16,1178458459794096128,-1.0,no_face,-1.0,New Zealand +3 years Australia,http://pbs.twimg.com/profile_images/1148381735043756033/bcVe-TsE.png
+17,1178458470749589505,-1.0,no_face,-1.0,"Boston, MA",http://pbs.twimg.com/profile_images/1129390445794979840/hjNk-uGZ.jpg
+18,1178458471588646913,-1.0,no_face,-1.0,"45th Parallel North,  3rd Rock",http://pbs.twimg.com/profile_images/1141052883892363264/4qsFu-4U.png
+19,1178458476067950592,-1.0,no_face,-1.0,Australia,http://pbs.twimg.com/profile_images/1110471263619702784/4gOk1GQ9.jpg
+20,1178458476923822082,40.08494376204226,m,0.00948635395616293,Ciudad de México,http://pbs.twimg.com/profile_images/1143604170706104320/qwJqTiN7.jpg
+21,1178458483433320453,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1432189732/guns4.jpg
+22,1178458483663880193,-1.0,no_face,-1.0,,http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+23,1178458499107495936,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1166600591042392065/aC45EIxL.jpg
+24,1178458512868790272,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1257697793344450562/eQ71_gqT.jpg
+25,1178458515557494784,42.74982067009114,m,0.16492260992527008,Sunshine Coast BC/ Shíshálh ,http://pbs.twimg.com/profile_images/869661670725099520/5nFP8KBJ.jpg
+26,1178458527100100609,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1140072762284752897/2oRPwf9r.jpg
+27,1178458558582538240,-1.0,no_face,-1.0,AZ ➡️ 🌎🌍🌏,http://pbs.twimg.com/profile_images/988786655325753344/TbC5wXu8.jpg
+28,1178458559870312448,-1.0,no_face,-1.0,"Silver Spring, MD",http://pbs.twimg.com/profile_images/1035911008223670273/k0yhqyDu.jpg
+29,1178458567176835077,-1.0,no_face,-1.0,"Pennsylvania, USA",http://pbs.twimg.com/profile_images/1200287516865286144/syrH6ywd.jpg
+30,1178458581768622080,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1176595895405539329/oCcfB_cl.jpg
+31,1178458582335066115,34.34479448968591,m,0.024673115462064743,"Augusta, ME",http://pbs.twimg.com/profile_images/1154843580793577472/8eWOMDyh.jpg
+32,1178458615461683200,-1.0,no_face,-1.0,"South Carolina, USA",http://pbs.twimg.com/profile_images/1163258704634011648/XA_kuqld.jpg
+33,1178458624483446784,-1.0,no_face,-1.0,NSW,http://pbs.twimg.com/profile_images/1227027767/jester111.jpg
+34,1178458625981009920,-1.0,no_face,-1.0,United States,http://pbs.twimg.com/profile_images/992420567092375553/aAcl7Aki.jpg
+35,1178458650735730691,-1.0,no_face,-1.0,"Hurricane, WV",http://pbs.twimg.com/profile_images/762763453606006784/OdNg0oLk.jpg
+36,1178458663092137985,-1.0,no_face,-1.0,St. John's,http://pbs.twimg.com/profile_images/1255597185326080000/dJqmdwZg.jpg
+37,1178458671845646337,-1.0,no_face,-1.0,"Burlington, Ontario",http://pbs.twimg.com/profile_images/816466959671955456/Iu3pUPN0.jpg
+38,1178458686445895681,-1.0,no_face,-1.0,United States,http://pbs.twimg.com/profile_images/1176270187592658945/O2BL8amz.jpg
+39,1178458703462354944,-1.0,no_face,-1.0,Pennsylvania,http://pbs.twimg.com/profile_images/1213983627962470403/Aa0X5I81.jpg
+40,1178458722328350722,-1.0,no_face,-1.0,,http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+41,1178458735540424705,-1.0,no_face,-1.0,International,http://pbs.twimg.com/profile_images/1081237918985814016/uqS-uROq.jpg
+42,1178458748341362693,-1.0,no_face,-1.0,"Pensacola, FL",http://pbs.twimg.com/profile_images/1062790510035824641/rsjLrywt.jpg
+43,1178458754322448384,46.43733701950987,m,0.03686327859759331,"Norman, OK",http://pbs.twimg.com/profile_images/819579087828242432/GhPF-Jsp.jpg
+44,1178458759611310080,-1.0,no_face,-1.0,"San Francisco, CA",http://pbs.twimg.com/profile_images/830225597137711105/DNrwQ6rP.jpg
+45,1178458773679001600,-1.0,no_face,-1.0,Canada,http://pbs.twimg.com/profile_images/1074140793948987392/W1bOpiRN.jpg
+46,1178458795116236802,34.84820320135839,m,0.039741359651088715,"Chicago, USA",http://pbs.twimg.com/profile_images/784688962/twit_photo.JPG
+47,1178458795707686912,-1.0,no_face,-1.0,USA ΔΣΘ 🔺🐘🔺#JTribe #JanFam,http://pbs.twimg.com/profile_images/823634667383365632/f_3xAaZk.jpg
+48,1178458803504701440,38.85031012746913,m,0.07862579822540283,Global,http://pbs.twimg.com/profile_images/1172650186344189952/NzDPuaMM.jpg
+49,1178458839970017280,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/881639497703673856/MrOoyDo7.jpg
+50,1178458840762912768,-1.0,no_face,-1.0,"New York, NY - Blue to Red",http://pbs.twimg.com/profile_images/986062958970200065/6FdeNGT1.jpg
+51,1178458865878200320,-1.0,no_face,-1.0,Sydney,http://pbs.twimg.com/profile_images/494644340363255809/7YY55AfJ.jpeg
+52,1178458867962957826,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1215121922444480515/IZfqhvk6.jpg
+53,1178458878809260032,-1.0,no_face,-1.0,"East Singhbhum, jharkhand",http://pbs.twimg.com/profile_images/1254717650447499267/YfzBglkE.jpg
+54,1178458904981889024,29.130970885567876,f,0.9422866702079773,U.S.  🤔,http://pbs.twimg.com/profile_images/959689957312028672/e7RmDA1J.jpg
+55,1178458906261016576,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/879661996416745472/gDzabsJL.jpg
+56,1178458915257888771,52.92960277835664,m,0.3339829444885254,"New Hampshire, USA",http://pbs.twimg.com/profile_images/1255573848566759431/DgysNvgJ.jpg
+57,1178458932806914049,-1.0,no_face,-1.0,Jupiter,http://pbs.twimg.com/profile_images/1195144978416230400/9zmOIwAk.jpg
+58,1178458952356397056,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1203145235179565056/v9ZKrgAh.jpg
+59,1178458959671369729,42.57560302389902,m,0.09794684499502182,"Florida, USA",http://pbs.twimg.com/profile_images/985297287168577536/0IiQTvyu.jpg
+60,1178458983570366464,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1249522424816648193/Mw-KB-cg.jpg
+61,1178458995637542912,-1.0,no_face,-1.0,"Palm Beach, FL - Queens, NY",http://pbs.twimg.com/profile_images/1091901391436697600/rgkpARVh.jpg
+62,1178458996438487046,-1.0,no_face,-1.0,"Vancouver, BC",http://pbs.twimg.com/profile_images/1109275657622548481/dm-RJ-_z.jpg
+63,1178459031498715138,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1256674228130082816/cB3uQ6r6.jpg
+64,1178459048544370689,40.93287866662649,m,0.038003161549568176,,http://pbs.twimg.com/profile_images/1252340613724336128/1F7P-GmI.jpg
+65,1178459055016333317,-1.0,no_face,-1.0,UK,http://pbs.twimg.com/profile_images/453494527068626944/QJoh2SSU.jpeg
+66,1178459058577166336,37.02798583874801,m,0.031442999839782715,New Zealand,http://pbs.twimg.com/profile_images/1224055443829354496/Gz84yA4S.jpg
+67,1178459073433362433,-1.0,no_face,-1.0,"Naga City, Bicol Region",http://pbs.twimg.com/profile_images/872393945333907456/c6BE7QC-.jpg
+68,1178459093612150784,-1.0,no_face,-1.0,"ÜT: 35.603972,-97.603997",http://pbs.twimg.com/profile_images/1785779828/49150_515874168_5797_q_2_.jpg
+69,1178459109072355328,-1.0,no_face,-1.0,Aotearoa,http://pbs.twimg.com/profile_images/1242923948133584896/_L_Rx3dF.jpg
+70,1178459122917892103,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/645007520000446464/vkEGUiPL.jpg
+71,1178459125807640577,36.62471898869262,m,0.07280854135751724,pale blue dot,http://pbs.twimg.com/profile_images/1220208180682280964/QT3AkmVg.jpg
+72,1178459142177972224,50.362635362835135,m,0.02882639318704605,‘Murica,http://pbs.twimg.com/profile_images/1246467315291414528/0TE048qb.jpg
+73,1178459148351987712,-1.0,no_face,-1.0,"Sherwood Park, AB",http://pbs.twimg.com/profile_images/490902684946272256/o9NAHkWN.jpeg
+74,1178459163438960640,33.35260850862687,f,0.6747280955314636,,http://pbs.twimg.com/profile_images/2963916108/f365d3926bb3bd8a609a8eb33ac2cc0d.jpeg
+75,1178459187937980417,-1.0,no_face,-1.0,Canada,http://pbs.twimg.com/profile_images/1254410676384288768/G69W563N.jpg
+76,1178459189783470082,57.73111580499972,m,0.24680665135383606,"Wilmington, DE",http://pbs.twimg.com/profile_images/1235244704859664385/oneP6BrA.jpg
+77,1178459190467207169,-1.0,no_face,-1.0,"Dallas, Texas",http://pbs.twimg.com/profile_images/1166815190018658304/yFrcHKny.png
+78,1178459191599493120,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1087900052524228608/TcJU7rtP.jpg
+79,1178459193596141570,40.36838367249277,m,0.05453738570213318,"San Francisco, CA ",http://pbs.twimg.com/profile_images/971820439004590080/qceK5gy-.jpg
+80,1178459244783255552,-1.0,no_face,-1.0,Australia,http://pbs.twimg.com/profile_images/1150618293654261760/keXFsLzP.png
+81,1178459246872207361,-1.0,no_face,-1.0,"Omaha, NE",http://pbs.twimg.com/profile_images/1175163600098512896/fymVAn94.jpg
+82,1178459249959165952,-1.0,no_face,-1.0,"Pensacola, FL",http://pbs.twimg.com/profile_images/1062790510035824641/rsjLrywt.jpg
+83,1178459252098289664,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1234541136536113153/KGq_mJJ8.jpg
+84,1178459260054839300,-1.0,no_face,-1.0,"Natal, Brasil",http://pbs.twimg.com/profile_images/959953252824633344/yK6Vi8Id.jpg
+85,1178459261363507200,36.82465585193131,m,0.3285601735115051,"St. John's, Newfoundland",http://pbs.twimg.com/profile_images/697399893061726208/v5gkkoEY.jpg
+86,1178459267252342784,50.482839876209255,m,0.08571449667215347,"Washington, DC",http://pbs.twimg.com/profile_images/762442818795077632/9_3m_vAM.jpg
+87,1178459270414848000,-1.0,no_face,-1.0,"Wichita, KS",http://pbs.twimg.com/profile_images/1025666329460654080/ylsdqWiP.jpg
+88,1178459273992359936,56.70491819370727,m,0.023154212161898613,"Calgary, Alberta",http://pbs.twimg.com/profile_images/789182559632576512/phqA6YbO.jpg
+89,1178459277024997376,52.61371210782818,m,0.1359913945198059,Edmonton Alberta,http://pbs.twimg.com/profile_images/1116964222867365888/FMWG0qFp.png
+90,1178459279461892097,-1.0,no_face,-1.0,"Roma, Lazio",http://pbs.twimg.com/profile_images/1218131893079638017/JsgAJHaP.jpg
+91,1178459295081328640,-1.0,no_face,-1.0,#EarthJustice,http://pbs.twimg.com/profile_images/1252066838441156610/AjLVBn3l.jpg
+92,1178459311103709184,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1254571161637322753/HkYdZLnb.jpg
+93,1178459340770041858,-1.0,no_face,-1.0,"Florida, USA",http://pbs.twimg.com/profile_images/811383522178936833/oJ4aUa0f.jpg
+94,1178459356934725632,-1.0,no_face,-1.0,"California, USA",http://pbs.twimg.com/profile_images/1148472239982952448/iMW7KMZP.jpg
+95,1178459356964081664,-1.0,no_face,-1.0,"Northern California, USA",http://pbs.twimg.com/profile_images/787391413604409344/W3-0RoDl.jpg
+96,1178459393467174912,-1.0,no_face,-1.0,Tycho Station,http://pbs.twimg.com/profile_images/1236734900721668098/KzGEez0m.jpg
+97,1178459402342408194,26.507764977832267,m,0.1304710954427719,"Cornwall, Ontario",http://pbs.twimg.com/profile_images/1243009579102998529/ziGbWWLQ.jpg
+98,1178459422172962818,22.766332209314896,m,0.08024737983942032,,http://pbs.twimg.com/profile_images/1246511232623898624/dhVJCpsV.jpg
+99,1178459434072207360,-1.0,no_face,-1.0,"Ontario, Canada",http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+100,1178456938323034112,10.011355053915324,m,0.1429639756679535,"Nova Scotia, Canada",http://pbs.twimg.com/profile_images/1225120671111532545/65KjSnTo.jpg
+101,1178456940499763200,-1.0,no_face,-1.0,"Los Angeles, CA",http://pbs.twimg.com/profile_images/1136814607778009088/XObXnzfP.png
+102,1178456955385311232,-1.0,no_face,-1.0,"Alberta, Canada",http://pbs.twimg.com/profile_images/1255877495217287170/-6to_OKl.jpg
+103,1178456960460566528,-1.0,no_face,-1.0,Somewhere Really Awful,http://pbs.twimg.com/profile_images/1132732389535436801/fgRBBrY7.jpg
+104,1178456966756229121,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1258511774799855618/W3zwc58t.jpg
+105,1178456980077203456,42.700906149808134,m,0.012393924407660961,Australia,http://pbs.twimg.com/profile_images/1187572502861496320/yQNwEQe6.jpg
+106,1178456986297479169,37.32702850230271,m,0.2958621084690094,"Miami, FL",http://pbs.twimg.com/profile_images/696075419456409600/UJaQJlsc.png
+107,1178456998414884864,-1.0,no_face,-1.0,"Minneapolis, MN",http://pbs.twimg.com/profile_images/732721839110131712/ScLLGxds.jpg
+108,1178456999064932352,43.09789265522886,m,0.02000662498176098,,http://pbs.twimg.com/profile_images/834175630459576320/45q1moFQ.jpg
+109,1178457027024211968,35.34582277018899,m,0.055311400443315506,Europe ,http://pbs.twimg.com/profile_images/1194536366228377600/qTaMcqlZ.jpg
+110,1178457042656354309,-1.0,no_face,-1.0,Mundania,http://pbs.twimg.com/profile_images/1003258025442988033/6_OCbYrK.jpg
+111,1178457057474891777,44.86868277066242,m,0.10476963222026825,Canada,http://pbs.twimg.com/profile_images/878040689996595201/OP6oge3Q.jpg
+112,1178457069386530816,-1.0,no_face,-1.0,Cryptosphere,http://pbs.twimg.com/profile_images/1118914980449906689/TxIbBz-a.jpg
+113,1178457071718674438,26.532691614752366,f,0.9442038536071777,With Steve & Bucky,http://pbs.twimg.com/profile_images/1130939997715148805/maJP9s_Z.jpg
+114,1178457072519860225,-1.0,no_face,-1.0,Ireland,http://pbs.twimg.com/profile_images/1177014749932003329/ujpDtRPd.jpg
+115,1178457072616255493,-1.0,no_face,-1.0,"Ontario, Canada",http://pbs.twimg.com/profile_images/378800000510756428/679255c11a06ba9090ef6a4ad6137147.jpeg
+116,1178457094279716865,42.51157516417152,m,0.11013133078813553,"Calgary, Alberta",http://pbs.twimg.com/profile_images/1167191098659364864/caOQkrOE.jpg
+117,1178457099845672960,-1.0,no_face,-1.0,alberta canada 🇨🇦,http://pbs.twimg.com/profile_images/1035227369059975168/82jlP0sU.jpg
+118,1178457125548244992,-1.0,no_face,-1.0,"Alberta, Canada",http://pbs.twimg.com/profile_images/1236718106728206337/u2QDcYzv.jpg
+119,1178457126831677440,40.39344206159876,m,0.11292780190706253,Brisbane,http://pbs.twimg.com/profile_images/61652524/Trent_c0831p8a.jpg
+120,1178457131286024192,-1.0,no_face,-1.0,In the Earth not of it,http://pbs.twimg.com/profile_images/1963529619/MrPeabody.jpg
+121,1178457157852753920,-1.0,no_face,-1.0,,http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+122,1178457161573310466,-1.0,no_face,-1.0,"Brooklyn, NY",http://pbs.twimg.com/profile_images/1061646535883132928/vzdV7TZ_.jpg
+123,1178457175645048832,-1.0,no_face,-1.0,"Las Vegas,NV",http://pbs.twimg.com/profile_images/1628925156/Picture_8.jpg
+124,1178457201423376385,59.24136437620564,m,0.027914978563785553,"Post Falls, Idaho",http://pbs.twimg.com/profile_images/585932766807601152/fIOhWKcu.jpg
+125,1178457201582759936,-1.0,no_face,-1.0,Antarctica,http://pbs.twimg.com/profile_images/1134161901930237953/nqAm68D2.jpg
+126,1178457213196816385,11.074960681147786,m,0.24935485422611237,"he/him, 21 y/o",http://pbs.twimg.com/profile_images/1245822157021745153/2HJRBDFD.jpg
+127,1178457233950220288,-1.0,no_face,-1.0,,http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+128,1178457244150710272,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1052606892101521408/U125AsEg.jpg
+129,1178457256657948672,-1.0,no_face,-1.0,Victoria,http://pbs.twimg.com/profile_images/1144200097355272192/Vb6gA-78.png
+130,1178457260995104768,-1.0,no_face,-1.0,"California, USA",http://pbs.twimg.com/profile_images/1136341406945931264/Lz7Vewvr.jpg
+131,1178457267722690560,-1.0,no_face,-1.0,Esoteric,http://pbs.twimg.com/profile_images/1012501581173088258/StyJR3_F.jpg
+132,1178457285384953856,-1.0,no_face,-1.0,Derbyshire but born in Rugby ,http://pbs.twimg.com/profile_images/2633963032/da5bf465e9e3a133363c5eb0a57910d1.jpeg
+133,1178457309636386817,-1.0,no_face,-1.0,"Western, North Carolina",http://pbs.twimg.com/profile_images/1250127009981890561/ouNUsNAM.jpg
+134,1178457310534017030,-1.0,no_face,-1.0,"Omaha, NE",http://pbs.twimg.com/profile_images/811254844140855296/N1uBW64X.jpg
+135,1178457325658501120,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/714517110416871424/hmXFYBj4.jpg
+136,1178457329756299264,54.65165475685353,f,0.792715847492218,"Christchurch, New Zealand.",http://pbs.twimg.com/profile_images/979978999953633285/-B3h-IyR.jpg
+137,1178457348001558534,21.354180911626827,m,0.003681890433654189,,http://pbs.twimg.com/profile_images/1160275441606938625/qMI8oGEz.jpg
+138,1178457356897701888,-1.0,no_face,-1.0,"Sydney, New South Wales",http://pbs.twimg.com/profile_images/700272343558393856/Lk620ahL.jpg
+139,1178457377944813568,-1.0,no_face,-1.0,Luxembourg,http://pbs.twimg.com/profile_images/858037872598953984/PfBC8FR6.jpg
+140,1178457438711885829,-1.0,no_face,-1.0,"Tampa, FL",http://pbs.twimg.com/profile_images/1213145199578365952/l1SMVZKF.jpg
+141,1178457468428521472,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1149180450616872960/XAOjJZap.jpg
+142,1178457480277430272,-1.0,no_face,-1.0,"Baltimore, MD",http://pbs.twimg.com/profile_images/1193702004289425409/afRtoo_S.jpg
+143,1178457486996713477,49.10214431951317,m,0.04997241497039795,"Dallas, TX",http://pbs.twimg.com/profile_images/1161466865065050113/MO3Ml768.jpg
+144,1178457490238902275,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1236701970187948034/760tnjii.jpg
+145,1178457500271529985,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/972050764515307521/JzlNN7Va.jpg
+146,1178457502058504192,-1.0,no_face,-1.0,The Bahamas,http://pbs.twimg.com/profile_images/1257715498101493760/hfK0qaV3.jpg
+147,1178457504004661249,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1256919856005484544/JXuxavjq.jpg
+148,1178457523931758593,-1.0,no_face,-1.0,"North Wales, PA",http://pbs.twimg.com/profile_images/1253871871491268611/SiIyTKR5.jpg
+149,1178457537802358789,-1.0,no_face,-1.0,"Ontario, Canada",http://pbs.twimg.com/profile_images/903170927042678785/C1m-xT7r.jpg
+150,1178457547197603841,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/869092147479359488/n-SBUd7v.jpg
+151,1178457580559052800,-1.0,no_face,-1.0,"St Louis, MO",http://pbs.twimg.com/profile_images/926659892139778048/BTvECSMN.jpg
+152,1178457595775873024,-1.0,no_face,-1.0, Australia,http://pbs.twimg.com/profile_images/1452204668/PETES_TRIP_PART_3_pt.JPG
+153,1178457603938164737,38.308567927541844,m,0.009351834654808044,"Toronto, Ontario",http://pbs.twimg.com/profile_images/907361130678452224/9N3kIvrP.jpg
+154,1178457606412746752,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/825775753660805120/u17v33mO.jpg
+155,1178457607037693952,25.96105257878662,m,0.4262391924858093,,http://pbs.twimg.com/profile_images/2550393934/av2ep69oaw5o2wjlv8mj.jpeg
+156,1178457614461464577,54.65165475685353,f,0.792715847492218,"Christchurch, New Zealand.",http://pbs.twimg.com/profile_images/979978999953633285/-B3h-IyR.jpg
+157,1178457628239912961,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1204586906098569216/ZQNXkMSZ.jpg
+158,1178457653384605697,23.807143487334542,m,0.21931493282318115,"Seattle, WA",http://pbs.twimg.com/profile_images/1195063136304254976/VcukN5_u.jpg
+159,1178457683579604992,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1043291130534612992/iuqleM3M.jpg
+160,1178457710448271360,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1244004644877205505/LApmauW-.jpg
+161,1178457718769754112,-1.0,no_face,-1.0,Globally l Planet Earth,http://pbs.twimg.com/profile_images/1164769324541702145/TRv0g4ZL.jpg
+162,1178457745978281987,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1114714328584916992/YBT6P6eu.jpg
+163,1178457773769678849,-1.0,no_face,-1.0,"Washington, D.C.",http://pbs.twimg.com/profile_images/1225575708338139136/A5JJUY4Q.jpg
+164,1178457776382730240,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1204586906098569216/ZQNXkMSZ.jpg
+165,1178457794908958720,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/542866776610963456/2YgpV-1t.jpeg
+166,1178457808779431936,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1251222974339801089/_dJ1Nw61.jpg
+167,1178457816761131008,-1.0,no_face,-1.0,"California, USA",http://pbs.twimg.com/profile_images/871047514811531266/f25tUkuB.jpg
+168,1178457824147525632,-1.0,no_face,-1.0,Intersection of Bravery and Freedom,http://pbs.twimg.com/profile_images/1133552661524037632/se91sGSP.jpg
+169,1178457830350831617,-1.0,no_face,-1.0,"Wales, United Kingdom",http://pbs.twimg.com/profile_images/1169353675443265536/XaXmuYvz.jpg
+170,1178457848558145537,-1.0,no_face,-1.0,"Sydney, New South Wales",http://pbs.twimg.com/profile_images/803305416612417536/zeImO8hU.jpg
+171,1178457862949003265,-1.0,no_face,-1.0,Illinois,http://pbs.twimg.com/profile_images/1106611224/q1414135443_1101.jpg
+172,1178457866123874305,-1.0,no_face,-1.0,"West Kelowna, British Columbia",http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+173,1178457893013803009,44.95617404644145,m,0.14704817533493042,,http://pbs.twimg.com/profile_images/1074480332101935104/wl-4OSzX.jpg
+174,1178457907173711878,33.29056318494804,m,0.05490657687187195,"St Paul, MN",http://pbs.twimg.com/profile_images/1084935146682437633/SLAyQ-6H.jpg
+175,1178457909207928832,55.45088395771745,m,0.0802328810095787,Western Illinois University,http://pbs.twimg.com/profile_images/1769961664/john_twitter.jpg
+176,1178457911942635521,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1146112724390338560/SRwcLqRd.jpg
+177,1178457931559292928,-1.0,no_face,-1.0,New York City,http://pbs.twimg.com/profile_images/938521602433564672/ffIqZ-Gl.jpg
+178,1178457937485930497,-1.0,no_face,-1.0,"Texas, USA",http://pbs.twimg.com/profile_images/950445691964342272/qaWUErnJ.jpg
+179,1178457962966331393,13.895991771314584,f,0.8121950030326843,,http://pbs.twimg.com/profile_images/1102381352794640384/SjOJ4YOM.jpg
+180,1178457976937598976,34.735368419113456,f,0.8480446934700012,Montreal,http://pbs.twimg.com/profile_images/896423003894009856/IaNMwFP2.jpg
+181,1178457994465599488,24.58019854703889,f,0.6701412796974182,"Newfoundland and Labrador, Can",http://pbs.twimg.com/profile_images/1242230325134188548/zI4aA8rm.jpg
+182,1178457995623059457,-1.0,no_face,-1.0,"Whanganui, New Zealand",http://pbs.twimg.com/profile_images/1213245383368794112/SFOfTZsf.jpg
+183,1178457996252332032,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/893431681033654272/H7puRp67.jpg
+184,1178457996575350784,32.47706834570272,f,0.9223492741584778,"Le Mans, France",http://pbs.twimg.com/profile_images/1255987788996059136/F9HPXxBn.jpg
+185,1178458021426540544,35.39621206396032,m,0.017116229981184006,United Kingdom,http://pbs.twimg.com/profile_images/1126540857291755520/rj9kRWI2.jpg
+186,1178458035364057088,52.66098706962657,m,0.022438278421759605,"Sydney, Australia",http://pbs.twimg.com/profile_images/520809039488241664/zch7T-TX.jpeg
+187,1178458059015892993,-1.0,no_face,-1.0,Boulogne-sur-Mer,http://pbs.twimg.com/profile_images/2626811398/m6j42z6q2rx257jwai5f.jpeg
+188,1178458060135784449,41.98223446632619,m,0.0893617793917656,Nanda Parbat,http://pbs.twimg.com/profile_images/1236631005638746119/lZyt1iuo.jpg
+189,1178458060458745856,-1.0,no_face,-1.0,"Pensacola, FL",http://pbs.twimg.com/profile_images/1062790510035824641/rsjLrywt.jpg
+190,1178458072991186946,-1.0,no_face,-1.0,"Noosa, Queensland, Australia",http://pbs.twimg.com/profile_images/728860116192137216/wbRZz1ZN.jpg
+191,1178458083489660928,37.09424788233446,m,0.41746455430984497,"Massachusetts, USA",http://pbs.twimg.com/profile_images/642325683952316416/gp9K1lNc.jpg
+192,1178458085637152769,21.008309708312936,m,0.24788500368595123,,http://pbs.twimg.com/profile_images/1253708498552213507/9UjlvA9K.jpg
+193,1178458134874132480,-1.0,no_face,-1.0,"Winchester, England",http://pbs.twimg.com/profile_images/1254666299147456513/NtKc1oqe.jpg
+194,1178458147930943489,36.25330785764186,m,0.03299082815647125,Ontario Canada,http://pbs.twimg.com/profile_images/1170306852820836353/Q-oVoOLx.jpg
+195,1178458163835736064,-1.0,no_face,-1.0,"Houston, TX",http://pbs.twimg.com/profile_images/1178491925269286912/a2N9R5Up.jpg
+196,1178458190914244610,-1.0,no_face,-1.0,"Warren Democrat, USA",http://pbs.twimg.com/profile_images/823428515748085760/4bv4S6QC.jpg
+197,1178458224040787970,-1.0,no_face,-1.0,Texas,http://pbs.twimg.com/profile_images/1204463606072524800/2PY3pnd3.jpg
+198,1178458228545355776,-1.0,no_face,-1.0,"Hanoi, Vietnam",http://pbs.twimg.com/profile_images/855667014467072000/mpEuQETi.jpg
+199,1178458232014008320,-1.0,no_face,-1.0,"Melbourne, Australia",http://pbs.twimg.com/profile_images/1240204502826807296/v1E3xqMb.jpg
+200,1178455526297853953,-1.0,no_face,-1.0,NSW Far North Coast,http://pbs.twimg.com/profile_images/428780427591962624/m_esaXkm.jpeg
+201,1178455526579036160,-1.0,no_face,-1.0,United States,http://pbs.twimg.com/profile_images/1232360239711891469/tf2-wPJ1.jpg
+202,1178455541401735168,-1.0,no_face,-1.0,"Orlando, FL",http://pbs.twimg.com/profile_images/841815172746485760/1-fHYdA0.jpg
+203,1178455565795766273,-1.0,no_face,-1.0,,http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+204,1178455572833812480,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1245263029606002688/-GSELrjq.jpg
+205,1178455578110242816,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1088205605007847424/JVeRCGux.jpg
+206,1178455615741386755,-1.0,no_face,-1.0,"Kamloops, BC y La Habana, Cuba",http://pbs.twimg.com/profile_images/987926594093072384/yj6_MPvI.jpg
+207,1178455617666715648,-1.0,no_face,-1.0,Canada,http://pbs.twimg.com/profile_images/1176449848289177601/q2_b33YA.jpg
+208,1178455677326503938,42.17369952520039,m,0.055669352412223816,Malahat Territory,http://pbs.twimg.com/profile_images/1171191785978097664/Ghb6dmBt.jpg
+209,1178455683961888769,40.066830793544796,f,0.936262845993042,,http://pbs.twimg.com/profile_images/1084210726561087488/txxKBUJp.jpg
+210,1178455686331547648,-1.0,no_face,-1.0,"Vancouver Island, BC",http://pbs.twimg.com/profile_images/794217853738041344/NstqWeuw.jpg
+211,1178455691918544898,-1.0,no_face,-1.0,Jamaica,http://pbs.twimg.com/profile_images/828587456828162049/-_gOmriQ.jpg
+212,1178455754325549057,-1.0,no_face,-1.0,"Stuttgart, München, Birmingham",http://pbs.twimg.com/profile_images/794151535685070848/6lrDQr4h.jpg
+213,1178455768959504384,-1.0,no_face,-1.0,Ireland,http://pbs.twimg.com/profile_images/1253661211482296321/35g2AYsR.jpg
+214,1178455769609453568,-1.0,no_face,-1.0,"SF Bay Area, California",http://pbs.twimg.com/profile_images/1232296246523547649/Pxnzka_D.jpg
+215,1178455802266304512,-1.0,no_face,-1.0,Southern Alberta,http://pbs.twimg.com/profile_images/1244667046916263936/lwMfvvtj.jpg
+216,1178455807882457089,42.51157516417152,m,0.11013133078813553,"Calgary, Alberta",http://pbs.twimg.com/profile_images/1167191098659364864/caOQkrOE.jpg
+217,1178455815260426248,-1.0,no_face,-1.0,Next door for all you know,http://pbs.twimg.com/profile_images/1210591657428758528/HQoyckUV.jpg
+218,1178455816673939462,32.758171987428796,f,0.7518370151519775,"Chicago, IL",http://pbs.twimg.com/profile_images/1255255288296472577/T5s3Wq1u.jpg
+219,1178455832817594368,-1.0,no_face,-1.0,"Mammoth Lakes, CA",http://pbs.twimg.com/profile_images/1136336490567426048/bV0E9Wwb.jpg
+220,1178455845019045891,50.09437916436946,m,0.10000699013471603,Louisville KY,http://pbs.twimg.com/profile_images/420347090/paul_rolfes_web.jpg
+221,1178455855676710912,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1218175138497286145/dP7HTSva.jpg
+222,1178455868553207809,-1.0,no_face,-1.0,"Perth, WA",http://pbs.twimg.com/profile_images/908710291730399232/QvKLqtqp.jpg
+223,1178455879391285249,-1.0,no_face,-1.0,"Ottawa, Ontario",http://pbs.twimg.com/profile_images/1158528770476781573/LGgvoJXa.jpg
+224,1178455880846774273,29.862244794367143,f,0.9875756502151489,"London, England",http://pbs.twimg.com/profile_images/940228270477385728/Ms1tDWN1.jpg
+225,1178455882612518912,42.740596737538226,m,0.011825011111795902,Stockholm,http://pbs.twimg.com/profile_images/444882594178412544/AtFzNu7f.jpeg
+226,1178455892926357504,36.19455053143611,m,0.3716532289981842,"Florida, USA",http://pbs.twimg.com/profile_images/464402817621307392/mum81u8l.jpeg
+227,1178455898097885184,36.19455053143611,m,0.3716532289981842,"Florida, USA",http://pbs.twimg.com/profile_images/464402817621307392/mum81u8l.jpeg
+228,1178455905391788034,46.921072138971795,m,0.057080015540122986,"California, USA",http://pbs.twimg.com/profile_images/817905904775401473/l8_Eb543.jpg
+229,1178455910898946050,32.69325049343752,m,0.3876986503601074,,http://pbs.twimg.com/profile_images/1126173911467433984/EYegCBl2.png
+230,1178455922856878081,-1.0,no_face,-1.0,Earth,http://pbs.twimg.com/profile_images/1140619739225632769/hZjpXH7i.jpg
+231,1178455944709181440,-1.0,no_face,-1.0,"Dallas, TX",http://pbs.twimg.com/profile_images/1258188018537492480/EV7Tfzb1.jpg
+232,1178455946437283848,39.58204638000916,m,0.011634358204901218,United States,http://pbs.twimg.com/profile_images/1252426041273929729/3YCA-pZJ.jpg
+233,1178455957510197250,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1043291130534612992/iuqleM3M.jpg
+234,1178455969749245953,37.336398288163764,m,0.09985664486885071,"Uxbridge, London",http://pbs.twimg.com/profile_images/1235900628561547265/iLTvH1bl.jpg
+235,1178455986337648640,-1.0,no_face,-1.0,"London, England",http://pbs.twimg.com/profile_images/1240388501935456256/kGseoKds.jpg
+236,1178456006583635968,-1.0,no_face,-1.0,"Kentucky, USA",http://pbs.twimg.com/profile_images/1234992024723623937/7OvZ4twK.jpg
+237,1178456008097763328,-1.0,no_face,-1.0,"Boston, MA .  Seaport district",http://pbs.twimg.com/profile_images/836014218570792960/TRAKymMw.jpg
+238,1178456021813141505,-1.0,no_face,-1.0,"Denver,CO",http://pbs.twimg.com/profile_images/601939090682957824/iSxDnkOn.jpg
+239,1178456029522210816,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1171578818068471808/VE21jL39.jpg
+240,1178456037394976768,-1.0,no_face,-1.0,Ontario,http://pbs.twimg.com/profile_images/526881942642229248/u-H29vor.png
+241,1178456045829509120,32.470183481384865,m,0.0036094444803893566,"Bronte, Sydney",http://pbs.twimg.com/profile_images/1013578167523598336/GN-lxu8Z.jpg
+242,1178456051005345792,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1248704480419463168/t1M2k3-b.jpg
+243,1178456077530271748,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1248255776528846849/YYXSsekt.jpg
+244,1178456124862996480,-1.0,no_face,-1.0,Where I Must!,http://pbs.twimg.com/profile_images/1119373298746494976/hY_nzbGE.jpg
+245,1178456126909583360,42.159244919064804,m,0.056349966675043106,,http://pbs.twimg.com/profile_images/1200659083247751168/DCwE7X7o.jpg
+246,1178456151068950529,30.499061348489704,m,0.08867192268371582,,http://pbs.twimg.com/profile_images/1091868278086086656/veSKcYnb.jpg
+247,1178456154617401345,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1056138401290874880/TnULhNDb.jpg
+248,1178456181859405824,-1.0,no_face,-1.0,United States,http://pbs.twimg.com/profile_images/1135726670026039296/JcvLmciY.png
+249,1178456187639140354,-1.0,no_face,-1.0,Middle Tennessee,http://pbs.twimg.com/profile_images/1596697947/GinnyRoberson.jpg
+250,1178456188503166977,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1651958367/GxYqJsbx
+251,1178456205842374656,-1.0,no_face,-1.0,Trinidad.,http://pbs.twimg.com/profile_images/1256277059460104193/vff-oagK.jpg
+252,1178456213467484161,-1.0,no_face,-1.0,U.S.A,http://pbs.twimg.com/profile_images/1135390657361600512/vN2wC1Uo.jpg
+253,1178456218618253314,-1.0,no_face,-1.0,Canada,http://pbs.twimg.com/profile_images/1008868434145259520/2EEWGtD_.jpg
+254,1178456226759401472,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1172141347781976064/qyJ2k0rF.jpg
+255,1178456271084646400,27.484967450998738,m,0.22554132342338562,"Ogden, UT",http://pbs.twimg.com/profile_images/1236398376033214464/QAvnzyAI.jpg
+256,1178456288583442438,-1.0,no_face,-1.0,"Los Angeles, SFC & Singapore",http://pbs.twimg.com/profile_images/1246713568029888514/Ig_PghQP.jpg
+257,1178456341767184386,-1.0,no_face,-1.0,"Dallas, TX",http://pbs.twimg.com/profile_images/1223088465170116609/EWlb-gnQ.jpg
+258,1178456344086511616,48.52320910463459,m,0.13480244576931,,http://pbs.twimg.com/profile_images/1189286545204756480/F3m2jvo-.jpg
+259,1178456356388573187,-1.0,no_face,-1.0,"Belfast, Northern Ireland",http://pbs.twimg.com/profile_images/1207026398961061894/2EBXZ8M6.jpg
+260,1178456356535377921,39.73474399084262,m,0.01337538193911314,"London, England",http://pbs.twimg.com/profile_images/1072314314076368904/8r5rlVkW.jpg
+261,1178456375044771840,-1.0,no_face,-1.0,Ireland,http://pbs.twimg.com/profile_images/662309944/Affinity.jpg
+262,1178456375803949057,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/499706446431649792/kl5WEYaR.jpeg
+263,1178456377699831808,-1.0,no_face,-1.0,"Rockaway Beach, New York",http://pbs.twimg.com/profile_images/945124839089680385/Py0fj90E.jpg
+264,1178456381294338048,-1.0,no_face,-1.0,Dallas,http://pbs.twimg.com/profile_images/1239755888954683392/cbQnZ_uK.jpg
+265,1178456383160631296,29.357326540426584,f,0.7603269219398499,,http://pbs.twimg.com/profile_images/1126632664721530886/JM7Y290p.png
+266,1178456417851736064,-1.0,no_face,-1.0,"Vancouver, British Columbia",http://pbs.twimg.com/profile_images/1002306554723307520/GRmU3dpB.jpg
+267,1178456433068773376,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1218059598587932673/geC3bu5D.jpg
+268,1178456433915916289,-1.0,no_face,-1.0,India,http://pbs.twimg.com/profile_images/1153611193342238720/_WRv8OyX.jpg
+269,1178456433916043266,31.880007471021372,m,0.022140296176075935,London (Paris & Tel Aviv),http://pbs.twimg.com/profile_images/845756018005082114/2ng8g0Rh.jpg
+270,1178456439888572416,-1.0,no_face,-1.0,"Santa Clara, CA",http://pbs.twimg.com/profile_images/748969399911002113/asqdDcXI.jpg
+271,1178456441587417089,-1.0,no_face,-1.0,here,http://pbs.twimg.com/profile_images/544352009722552321/zd7U97Pp.jpeg
+272,1178456453969010688,58.90427157168142,m,0.005532501265406609,"Florida, USA",http://pbs.twimg.com/profile_images/1090948998783918081/N0aM41oY.jpg
+273,1178456455512494080,-1.0,no_face,-1.0,,http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+274,1178456464622374913,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1209219957008949248/AKRywJSl.jpg
+275,1178456471304056839,-1.0,no_face,-1.0,Georgia / Disney World ,http://pbs.twimg.com/profile_images/634427431957450752/zr-Tg6hy.jpg
+276,1178456479679954944,-1.0,no_face,-1.0,Black stump. ,http://pbs.twimg.com/profile_images/1121556294224060419/rVz0pEb2.jpg
+277,1178456493303066624,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1211705783273975808/_2Q7bls9.jpg
+278,1178456494368595968,-1.0,no_face,-1.0,Gower and Nottingham  ,http://pbs.twimg.com/profile_images/983068553157988353/my_RLwKN.jpg
+279,1178456549313957889,-1.0,no_face,-1.0,USA UK DDR,http://pbs.twimg.com/profile_images/896155186942627840/wk9wbFzE.jpg
+280,1178456571476467712,-1.0,no_face,-1.0,Brisbane ,http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+281,1178456590396997632,-1.0,no_face,-1.0,"East of Phoenix, AZ",http://pbs.twimg.com/profile_images/1167378329822879746/TShmq01H.jpg
+282,1178456592326496256,36.45414219991653,m,0.45735886693000793,Canada/US,http://pbs.twimg.com/profile_images/1242461004266684418/MRVmhjHr.jpg
+283,1178456625042149376,-1.0,no_face,-1.0,Askwith House,http://pbs.twimg.com/profile_images/1196899462666432517/s4XLK4f5.jpg
+284,1178456651634036736,-1.0,no_face,-1.0,alien hunting,http://pbs.twimg.com/profile_images/1258602430515863554/r4ll4r-q.jpg
+285,1178456731145232384,-1.0,no_face,-1.0,jimin's left ass cheek ,http://pbs.twimg.com/profile_images/1171848195606863872/5B-SzqgU.jpg
+286,1178456743468322821,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/852362960077025280/CXx0jo0l.jpg
+287,1178456747301728257,-1.0,no_face,-1.0,"Queensland, Australia.",http://pbs.twimg.com/profile_images/3646377422/3cff0cf303c9426b9a00fbf9a4ce0649.jpeg
+288,1178456753719013377,50.17923751131639,f,0.7876956462860107,"Adelaide, South Australia",http://pbs.twimg.com/profile_images/464618796213219328/ITETtYyL.png
+289,1178456755631575040,41.44524545208773,m,0.006886314135044813,New Zealand,http://pbs.twimg.com/profile_images/1165749512918327298/hPBfGpZw.jpg
+290,1178456770953564160,-1.0,no_face,-1.0,"Ontario, Canada",http://pbs.twimg.com/profile_images/1057697688697954304/X6g8MO9c.jpg
+291,1178456781137289217,47.37599293138919,f,0.5502107739448547,,http://pbs.twimg.com/profile_images/862922000242626561/UJVh-IRq.jpg
+292,1178456789227991040,27.826373217627406,m,0.30012980103492737,"San Leandro, CA",http://pbs.twimg.com/profile_images/1149109846173573120/szjY9MuZ.jpg
+293,1178456800582144001,65.57487101881816,m,0.046706125140190125,"Birmingham, AL, USA",http://pbs.twimg.com/profile_images/468865366517506048/o7rmgtku.jpeg
+294,1178456808110858240,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1244004644877205505/LApmauW-.jpg
+295,1178456841308823553,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1208364079972110336/n6qtvf27.jpg
+296,1178456842197843968,-1.0,no_face,-1.0,"Alberta, Canada",http://pbs.twimg.com/profile_images/1255877495217287170/-6to_OKl.jpg
+297,1178456859449143296,37.77657584233384,f,0.736180305480957,Montreal,http://pbs.twimg.com/profile_images/1178061195640819712/9CIVg-HG.jpg
+298,1178456865811943425,43.33056535370997,m,0.3044888377189636,Salford,http://pbs.twimg.com/profile_images/1148509230216990720/toKnHgzF.jpg
+299,1178456881397940231,-1.0,no_face,-1.0,Lewes East Sussex,http://pbs.twimg.com/profile_images/1019920454088384512/A3U5rxao.jpg
+300,1178454224323141632,-1.0,no_face,-1.0,,http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+301,1178454256912912385,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1208364079972110336/n6qtvf27.jpg
+302,1178454264806625280,48.21018720273423,m,0.030093852430582047,,http://pbs.twimg.com/profile_images/3044104752/bf486b8a77a9b983a4b6f6eb6ff35148.jpeg
+303,1178454282909179904,-1.0,no_face,-1.0,"St Augustine, FL",http://pbs.twimg.com/profile_images/1238527686143852544/3WOc76Z1.jpg
+304,1178454297249370112,17.967101644317154,f,0.8766447901725769,here,http://pbs.twimg.com/profile_images/1254376010646085633/p8us2NpY.jpg
+305,1178454298058821632,52.51142018518294,m,0.13790126144886017,United States,http://pbs.twimg.com/profile_images/1070263590282649600/U3jxsfWL.jpg
+306,1178454306443235328,-1.0,no_face,-1.0,"Melbourne, Victoria",http://pbs.twimg.com/profile_images/1050507196016934912/NM7L8qIl.jpg
+307,1178454310163759104,-1.0,no_face,-1.0,"Hamilton, Ontario, CA",http://pbs.twimg.com/profile_images/1203488138636791809/wzOyf0TA.jpg
+308,1178454310390321152,40.523745798025175,m,0.05822425335645676,"Washington, DC",http://pbs.twimg.com/profile_images/1239651372078956545/g6EWXWg0.jpg
+309,1178454320381153291,47.9880430479119,m,0.026797795668244362,Iraq,http://pbs.twimg.com/profile_images/947578893137076224/s17jPkL7.jpg
+310,1178454331131092995,-1.0,no_face,-1.0,"Oregon, Idaho, Wash., Utah",http://pbs.twimg.com/profile_images/681548571393437696/DIegs5Xr.jpg
+311,1178454342606708736,-1.0,no_face,-1.0,Tennessee,http://pbs.twimg.com/profile_images/842529098287251456/L_h_peV0.jpg
+312,1178454347115577346,-1.0,no_face,-1.0,Boulogne-sur-Mer,http://pbs.twimg.com/profile_images/2626811398/m6j42z6q2rx257jwai5f.jpeg
+313,1178454347560169472,-1.0,no_face,-1.0,Pale Blue Dot,http://pbs.twimg.com/profile_images/1255921727927980032/BFUwQTrg.jpg
+314,1178454354048757761,-1.0,no_face,-1.0,Wisconsin,http://pbs.twimg.com/profile_images/2556686375/bwca_pic.png
+315,1178454367533445120,-1.0,no_face,-1.0,Boulogne-sur-Mer,http://pbs.twimg.com/profile_images/2626811398/m6j42z6q2rx257jwai5f.jpeg
+316,1178454402924859392,36.65161069264286,f,0.5092021822929382,Canada,http://pbs.twimg.com/profile_images/850903593221857280/8WSVU7mf.jpg
+317,1178454408260014080,-1.0,no_face,-1.0,Australia,http://pbs.twimg.com/profile_images/1098007143330902016/NxA76ZiP.jpg
+318,1178454409430233088,-1.0,no_face,-1.0,𝗯𝗮𝗻𝗴𝘁𝗮𝗻☾,http://pbs.twimg.com/profile_images/1256990620213587968/IusZVLF9.jpg
+319,1178454419526094855,43.981165047423524,m,0.003398832166567445,"Ithaca, NY",http://pbs.twimg.com/profile_images/570634541040037888/E5uuO6Hr.jpeg
+320,1178454430099755008,-1.0,no_face,-1.0,"Western Australia, Australia",http://pbs.twimg.com/profile_images/1082026003650596864/Cjr8tFp_.jpg
+321,1178454451100631041,-1.0,no_face,-1.0,New Zealand,http://pbs.twimg.com/profile_images/1184659170156408832/053yX8Dt.jpg
+322,1178454482058960897,-1.0,no_face,-1.0,Zone 6ix,http://pbs.twimg.com/profile_images/1214446093704019968/7Mjz9ZpD.jpg
+323,1178454530729631745,-1.0,no_face,-1.0,"Plaistow, NH",http://pbs.twimg.com/profile_images/1209305553261989889/ISBbXdGj.jpg
+324,1178454538421846018,39.24030514612423,m,0.09382746368646622,California,http://pbs.twimg.com/profile_images/218707067/petephotojpeg.JPG
+325,1178454543501348865,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1225056449316831233/A8gVPviL.jpg
+326,1178454551839555586,-1.0,no_face,-1.0,"South Carolina, USA",http://pbs.twimg.com/profile_images/3126280556/607658e15ab1d25f64cd3797e3006337.jpeg
+327,1178454556482527232,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/2195905743/hot_husband.jpg
+328,1178454573972967426,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/631377249141325824/KVhmMtDh.png
+329,1178454610509475840,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1236505895078703104/aeW25Leg.jpg
+330,1178454613411938306,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1093738345052569600/vckkGshd.jpg
+331,1178454621347442689,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1163785331855904768/adSDQwfc.jpg
+332,1178454625676083206,-1.0,no_face,-1.0,"New Mexico, USA",http://pbs.twimg.com/profile_images/811782595830640640/gAy9sieM.jpg
+333,1178454627030831106,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1184263673889677312/r5CfLtom.jpg
+334,1178454629262094341,-1.0,no_face,-1.0,Pismo Beach,http://pbs.twimg.com/profile_images/919553285882724354/HA9NO3M1.jpg
+335,1178454637734576129,-1.0,no_face,-1.0,"Loveland, CO",http://pbs.twimg.com/profile_images/1132434353831653376/R1EI1Ovb.jpg
+336,1178454644302987264,-1.0,no_face,-1.0,"Small town, Iowa",http://pbs.twimg.com/profile_images/1200897057915113475/g5hYo4wX.jpg
+337,1178454651856936960,33.126223729115736,m,0.45598524808883667,World Wide Web,http://pbs.twimg.com/profile_images/963194535408033797/UKVg7HY-.jpg
+338,1178454666914516992,-1.0,no_face,-1.0,"Auburn, AL",http://pbs.twimg.com/profile_images/1258560552437272577/-w2p8V7l.jpg
+339,1178454682567491584,27.095252864543,m,0.04596713185310364,Tagbilaran City,http://pbs.twimg.com/profile_images/434145901171318785/pucGz_pq.jpeg
+340,1178454728566427648,58.55223726222903,m,0.10106149315834045,New Zealand,http://pbs.twimg.com/profile_images/886080860482486272/CAYPyQXG.jpg
+341,1178454745104564224,50.636537851847606,m,0.04139396920800209,"Vancouver, BC, Canada",http://pbs.twimg.com/profile_images/2447326911/Aziz4.jpg
+342,1178454762397716481,60.75564497058804,m,0.1563412845134735,"Tucson, AZ",http://pbs.twimg.com/profile_images/3252332769/d364af06718f67a6ac64c35f3b2e5e84.jpeg
+343,1178454797005070337,-1.0,no_face,-1.0,"Largo, FL",http://pbs.twimg.com/profile_images/1090606253842333697/BUoRkoVw.jpg
+344,1178454802293903360,46.08724106634327,f,0.9443219304084778,"Ngunnawal, Ngambri country",http://pbs.twimg.com/profile_images/1143329583065784321/RFQEg4-k.jpg
+345,1178454807490813952,44.1135001783623,m,0.10963544994592667,USA,http://pbs.twimg.com/profile_images/981969292089536513/ewOkSoTb.jpg
+346,1178454808602136576,-1.0,no_face,-1.0,mesosphere,http://pbs.twimg.com/profile_images/1130527855589199872/sCeNJi8S.jpg
+347,1178454815329808384,33.892216970649315,m,0.44297143816947937,,http://pbs.twimg.com/profile_images/1245059661037887489/hG0sTWR7.jpg
+348,1178454825266221056,-1.0,no_face,-1.0,"Pennsylvania, USA",http://pbs.twimg.com/profile_images/1024472906418606080/qaRL7jnp.jpg
+349,1178454827556315136,47.9880430479119,m,0.026797795668244362,Iraq,http://pbs.twimg.com/profile_images/947578893137076224/s17jPkL7.jpg
+350,1178454840768229377,-1.0,no_face,-1.0,"Auckland, New Zealand",http://pbs.twimg.com/profile_images/1106804354294509568/q2E8UpNV.png
+351,1178454851237404674,17.14096001684743,f,0.977922797203064,far far away. ,http://pbs.twimg.com/profile_images/1258317895790190592/gl1rdyC3.jpg
+352,1178454854638792704,41.03190054765355,m,0.022587796673178673,,http://pbs.twimg.com/profile_images/1083606851680268288/E0aDF0D6.jpg
+353,1178454865929998336,-1.0,no_face,-1.0,"Manila City, National Capital",http://pbs.twimg.com/profile_images/1215261025424986113/TCzw-DTS.jpg
+354,1178454880932941824,-1.0,no_face,-1.0,"Australian Capital Territory, ",http://pbs.twimg.com/profile_images/738843237813604352/sVsEftsh.jpg
+355,1178454909726777344,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1225544697822662656/3GCwEt4b.jpg
+356,1178454912386002944,39.69555919474806,m,0.0962945967912674,,http://pbs.twimg.com/profile_images/1115478425240621056/n52fTOGZ.jpg
+357,1178455010138447873,38.88801470301587,m,0.02504376880824566,"Victoria, Australia",http://pbs.twimg.com/profile_images/1089866937054547973/qjQGOmaL.jpg
+358,1178455030892044293,-1.0,no_face,-1.0,some 905 town,http://pbs.twimg.com/profile_images/955908781925371905/cVpf7-9g.jpg
+359,1178455072528728064,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1899033242/576678.jpg
+360,1178455073325813761,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1156639330401685504/0QGKsBxn.jpg
+361,1178455076542861314,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/833894071064207364/9Im-eWxO.jpg
+362,1178455086755909633,-1.0,no_face,-1.0,"ÜT: 43.934904,-78.884845",http://pbs.twimg.com/profile_images/967428182163980289/XFTNpwlk.jpg
+363,1178455091130638336,-1.0,no_face,-1.0,"Edmonton, Alberta",http://pbs.twimg.com/profile_images/1001142749171613696/jlw6Q-3N.jpg
+364,1178455098177007616,-1.0,no_face,-1.0,Intersection of Bravery and Freedom,http://pbs.twimg.com/profile_images/1133552661524037632/se91sGSP.jpg
+365,1178455103604428800,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/768722829131014144/mMCv129V.jpg
+366,1178455117508628480,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1213169516504649728/T2oosiEU.jpg
+367,1178455130179588096,41.81210913664472,m,0.029247093945741653,,http://pbs.twimg.com/profile_images/1241014304524115968/AcVBdLfK.jpg
+368,1178455140581310464,21.390497637562476,f,0.7527161836624146,,http://pbs.twimg.com/profile_images/1097316623151554566/htouGzDJ.png
+369,1178455141357252608,21.390497637562476,f,0.7527161836624146,,http://pbs.twimg.com/profile_images/1097316623151554566/htouGzDJ.png
+370,1178455154883993602,-1.0,no_face,-1.0,Πρωτευουσα του Καμπου,http://pbs.twimg.com/profile_images/1258009841521446917/_Wr85qon.jpg
+371,1178455160873373696,11.87432995187055,f,0.8067112565040588,Cali,http://pbs.twimg.com/profile_images/1215001917039890432/fkLB5uBp.jpg
+372,1178455172189581312,-1.0,no_face,-1.0,Canada,http://pbs.twimg.com/profile_images/1219638052169101313/-8Qo6CRb.jpg
+373,1178455174085513216,13.040313746375432,f,0.5205019116401672,Alannuh joja,http://pbs.twimg.com/profile_images/1257178486898376704/F6eoWUrt.jpg
+374,1178455175809454085,-1.0,no_face,-1.0,"Ontario, Canada",http://pbs.twimg.com/profile_images/1032404604447641601/YqOS2EJo.jpg
+375,1178455176866193408,-1.0,no_face,-1.0,New Westminster,http://pbs.twimg.com/profile_images/1031968615929499648/KvWPdnuM.jpg
+376,1178455186852892672,46.080107519446756,m,0.10870212316513062,australia,http://pbs.twimg.com/profile_images/1187600323080155136/JdzNLUu8.jpg
+377,1178455224341745665,-1.0,no_face,-1.0,Edmonton,http://pbs.twimg.com/profile_images/1467017927/Facebook_logo.jpg
+378,1178455239512469509,37.53167561395094,m,0.449546217918396,Hagerstown Md,http://pbs.twimg.com/profile_images/548605608749182977/CzQazM7c.jpeg
+379,1178455254314012673,-1.0,no_face,-1.0,Naarm,http://pbs.twimg.com/profile_images/1111901846317072384/S2K1iYTh.jpg
+380,1178455258567196673,22.635287630004314,f,0.864821195602417,"18, she/her",http://pbs.twimg.com/profile_images/1256694979482865671/N_tDZiX2.jpg
+381,1178455290754355200,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1211890568428695552/cxD3uuTl.jpg
+382,1178455308353642497,-1.0,no_face,-1.0,"New York, NY",http://pbs.twimg.com/profile_images/1248152823881031681/lWO5XdLW.jpg
+383,1178455329157332992,38.6648893430247,m,0.3986167311668396,,http://pbs.twimg.com/profile_images/959800971831468032/qLUt7k7E.jpg
+384,1178455331241779200,47.58440066070739,m,0.015061716549098492,USA,http://pbs.twimg.com/profile_images/424775949851185152/5T6VnuQa.jpeg
+385,1178455334748348417,42.380300382414134,m,0.22035793960094452,Canadian in Scotland,http://pbs.twimg.com/profile_images/569837699163377664/9_ZGisbh.jpeg
+386,1178455342834839552,42.13876320181589,m,0.1710525006055832,"Portland, Oregon",http://pbs.twimg.com/profile_images/847914184532676608/rT4nK3Af.jpg
+387,1178455350166638592,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1138507149124837377/4NWmJ3hb.png
+388,1178455350959362049,18.269783298982702,f,0.9398974180221558,she/her,http://pbs.twimg.com/profile_images/1252397117621985281/2GAAWwl8.jpg
+389,1178455382529695745,-1.0,no_face,-1.0,Bay Area,http://pbs.twimg.com/profile_images/1237052260598726656/4lhU6sb8.jpg
+390,1178455387500142596,-1.0,no_face,-1.0,"Wellington, New Zealand",http://pbs.twimg.com/profile_images/1158531469435965440/8b8tVI3d.jpg
+391,1178455399520821248,-1.0,no_face,-1.0,New Zealand,http://pbs.twimg.com/profile_images/1164680012890439681/XVMy06tP.jpg
+392,1178455401215381505,-1.0,no_face,-1.0,New Zealand,http://pbs.twimg.com/profile_images/1164680012890439681/XVMy06tP.jpg
+393,1178455405615357955,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1233225667648442369/_uLPhIjP.jpg
+394,1178455431296872448,-1.0,no_face,-1.0,"San Diego, CA",http://pbs.twimg.com/profile_images/1050431733848399872/xOhKpG83.jpg
+395,1178455466688434176,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1227024291968909312/BXk7i8LH.jpg
+396,1178455490231189506,-1.0,no_face,-1.0,Tierra del Fuego,http://pbs.twimg.com/profile_images/990046597928161280/XJIddQat.jpg
+397,1178455497898434561,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1257895466118737922/wOfBoeA1.jpg
+398,1178455505867427840,-1.0,no_face,-1.0,"MAGA, USA",http://pbs.twimg.com/profile_images/1166217557772079109/72mx2Yvq.jpg
+399,1178455513501188098,-1.0,no_face,-1.0,"San Antonio, TX/ Ashland, WI",http://pbs.twimg.com/profile_images/1094448320905388033/dwx_ZWWr.jpg
+400,1178452834007814145,-1.0,no_face,-1.0,"Kansas City, MO",http://pbs.twimg.com/profile_images/979887608405913601/UC5r2nbs.jpg
+401,1178452834947403776,33.89210276990707,f,0.7372839450836182,Middle of AMERICA,http://pbs.twimg.com/profile_images/632903140753338373/spfPtEPJ.jpg
+402,1178452838516551680,-1.0,no_face,-1.0,United States,http://pbs.twimg.com/profile_images/909640446388846592/hSDGNV9Q.jpg
+403,1178452848411107334,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/378800000622744576/804ee2783a256b1178322a2d9dc270de.jpeg
+404,1178452853951582208,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1253766992529469440/L6nn_cUl.jpg
+405,1178452878249340929,-1.0,no_face,-1.0,Phobia-phobic ancient alien ,http://pbs.twimg.com/profile_images/622378179936829440/jTEVBcCW.jpg
+406,1178452890744016898,36.982617966194084,f,0.8711557388305664,,http://pbs.twimg.com/profile_images/839944455952093184/LwWjQQ1e.jpg
+407,1178452896205041664,38.45186894898052,f,0.9927527904510498,Here.,http://pbs.twimg.com/profile_images/1054207357348044801/G7AM6Jse.jpg
+408,1178452896884510720,-1.0,no_face,-1.0,7th Level of Hell ,http://pbs.twimg.com/profile_images/1190920003849207809/nhWTNUi-.jpg
+409,1178452904975458306,52.95028315970558,m,0.0932764783501625,Melbourne Australia,http://pbs.twimg.com/profile_images/1098796048527417344/0cXjKOO3.png
+410,1178452908037292033,28.662369596808276,f,0.9287167191505432,,http://pbs.twimg.com/profile_images/1227364070745047046/F-_xeaK0.jpg
+411,1178452932271968256,-1.0,no_face,-1.0,"New Jersey, USA",http://pbs.twimg.com/profile_images/959174784461492224/y8QOxq1s.jpg
+412,1178452932813033477,24.4473484219875,m,0.27652186155319214,"Wolverhampton, UK",http://pbs.twimg.com/profile_images/1249521983542493189/ggYm2GAe.jpg
+413,1178452956552847366,27.91671482770471,f,0.7632778286933899,bts | he/him | part time troll,http://pbs.twimg.com/profile_images/1254709716787306497/P_bJh8Vr.jpg
+414,1178452964983365632,-1.0,no_face,-1.0,"Illinois, USA",http://pbs.twimg.com/profile_images/1205827715863056384/FjVgybUB.jpg
+415,1178452967910821889,39.79206156672444,m,0.2915290892124176,,http://pbs.twimg.com/profile_images/1141905572339388416/kEbaxnVF.png
+416,1178452988261740545,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1257057982740905985/rCMUFc3J.jpg
+417,1178453007417122818,31.517454564594402,m,0.0024852396454662085,LTN UK,http://pbs.twimg.com/profile_images/1238653072659931137/rYsi1HJ8.jpg
+418,1178453028610985987,-1.0,no_face,-1.0,,http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+419,1178453030858964993,49.70687313125768,m,0.0113277742639184,"Edmonton, Alberta",http://pbs.twimg.com/profile_images/487592570474606593/Xk-HqWv6.jpeg
+420,1178453036076810244,-1.0,no_face,-1.0,"Fayetteville, NC",http://pbs.twimg.com/profile_images/1243767670731923456/S6gZ8wVl.jpg
+421,1178453038283014145,-1.0,no_face,-1.0,"Florida, USA",http://pbs.twimg.com/profile_images/1211824577703239680/IzVAlta7.jpg
+422,1178453042829516800,42.50396247480512,f,0.8251950144767761,USA,http://pbs.twimg.com/profile_images/484581229480513536/gfceFJ5F.jpeg
+423,1178453093509300224,-1.0,no_face,-1.0,Winnipeg 204 995 3465,http://pbs.twimg.com/profile_images/863575661910392835/SCCivbhJ.jpg
+424,1178453103600787457,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/702393954633977856/oGK8pMJy.jpg
+425,1178453106788487168,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1122261930570407936/FMjbsGm5.jpg
+426,1178453122055839744,29.985881889200755,f,0.7915398478507996,"Cape Town, South Africa",http://pbs.twimg.com/profile_images/1054882236540030976/vZ1LS9aM.jpg
+427,1178453124996042752,-1.0,no_face,-1.0,"New York, NY",http://pbs.twimg.com/profile_images/1078822380187848704/P3ag520M.jpg
+428,1178453125612486656,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1135752370363568128/_HETExZf.jpg
+429,1178453126682206210,-1.0,no_face,-1.0,Harstad  City.Northern Norway,http://pbs.twimg.com/profile_images/1160481050570756103/R01jKv5W.png
+430,1178453130025013249,-1.0,no_face,-1.0,,http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+431,1178453139139096576,-1.0,no_face,-1.0,"Vancouver, British Columbia",http://pbs.twimg.com/profile_images/1230393727476097024/eDPSqjHh.jpg
+432,1178453146722455552,38.4744796306658,m,0.028232647106051445,,http://pbs.twimg.com/profile_images/878329856592822273/XHDaEvVr.jpg
+433,1178453147670515712,21.07539229413851,m,0.48592638969421387,,http://pbs.twimg.com/profile_images/1227602943400173570/_OOYkodM.jpg
+434,1178453155324948480,-1.0,no_face,-1.0,,http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+435,1178453157862612993,-1.0,no_face,-1.0,"Töreboda, Sweden",http://pbs.twimg.com/profile_images/378800000469527385/a8e239aa045e922c0ca1503d0f967f7b.jpeg
+436,1178453235146706944,-1.0,no_face,-1.0,"Sydney, Australia",http://pbs.twimg.com/profile_images/1199202254919589889/Z_8DATUl.png
+437,1178453316465881089,33.65341956356497,f,0.8533948659896851,"Melbourne, Victoria",http://pbs.twimg.com/profile_images/602616397403791360/bujyxytV.jpg
+438,1178453317204054017,42.50396247480512,f,0.8251950144767761,USA,http://pbs.twimg.com/profile_images/484581229480513536/gfceFJ5F.jpeg
+439,1178453318575611904,26.70012602404313,f,0.80678790807724,,http://pbs.twimg.com/profile_images/1163221879441612800/ija3Rhxe.jpg
+440,1178453319230070785,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1149748494577651713/nmBVzAr0.png
+441,1178453325827776515,-1.0,no_face,-1.0,RVA 💸 DC,http://pbs.twimg.com/profile_images/1257345641480622081/I0IjOYZr.jpg
+442,1178453326377013249,37.755333742031326,m,0.027124272659420967,Viva Las Vegas!,http://pbs.twimg.com/profile_images/1210422602755276800/UELM_Uq_.jpg
+443,1178453334497169408,-1.0,no_face,-1.0,,http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+444,1178453339341766662,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1123792191279771649/RksNYI3u.jpg
+445,1178453356609773569,-1.0,no_face,-1.0,hollywood and vine,http://pbs.twimg.com/profile_images/1249715608977051648/k6uZBI_-.jpg
+446,1178453383935479808,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1168443531821637633/CgxJW5ct.jpg
+447,1178453386754248704,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1170136134967615488/lvBJCpf-.jpg
+448,1178453394358439938,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1159497369777516544/tcyXbqU2.jpg
+449,1178453448070750212,27.775549248988682,f,0.9614342451095581,Where I Want To Be,http://pbs.twimg.com/profile_images/1219030286933078016/JKehMVQf.jpg
+450,1178453453837873152,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1070332453993082880/SUkbO7Nr.jpg
+451,1178453486717034496,38.07164480254221,m,0.020752884447574615,,http://pbs.twimg.com/profile_images/1032092037481459712/7x9Fg8gm.jpg
+452,1178453536134373376,-1.0,no_face,-1.0,,http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+453,1178453541763072000,44.95617404644145,m,0.14704817533493042,,http://pbs.twimg.com/profile_images/1074480332101935104/wl-4OSzX.jpg
+454,1178453604828495872,-1.0,no_face,-1.0,"Strathmore, Melbourne formerly of Moyston and Ararat.",http://pbs.twimg.com/profile_images/1011028448897200129/X3QOGdVH.jpg
+455,1178453628702445569,35.07740580050813,m,0.06824637949466705,Australia,http://pbs.twimg.com/profile_images/1144973080474710016/LZT_cWAJ.png
+456,1178453632724934657,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/773590781718298625/mm2scKTj.jpg
+457,1178453645160878080,-1.0,no_face,-1.0,Canada (Alberta),http://pbs.twimg.com/profile_images/1160334279949242369/CyVyC7O8.jpg
+458,1178453654023606273,-1.0,no_face,-1.0,"Dallas, Texas",http://pbs.twimg.com/profile_images/1166815190018658304/yFrcHKny.png
+459,1178453657483915266,-1.0,no_face,-1.0,East Coast,http://pbs.twimg.com/profile_images/920374892687749120/2CE9rVtv.jpg
+460,1178453681718677505,35.495428927853936,f,0.9452065825462341,Calgary,http://pbs.twimg.com/profile_images/1539296913/image.jpg
+461,1178453693819043840,-1.0,no_face,-1.0,"Calgary, Alberta",http://pbs.twimg.com/profile_images/1098054709858824192/aXs0we4Y.png
+462,1178453710428495872,-1.0,no_face,-1.0,Canberra,http://pbs.twimg.com/profile_images/1006038456726839297/Qw704L_e.jpg
+463,1178453713528201217,11.074960681147786,m,0.24935485422611237,"he/him, 21 y/o",http://pbs.twimg.com/profile_images/1245822157021745153/2HJRBDFD.jpg
+464,1178453718792052736,-1.0,no_face,-1.0,"South Carolina, USA",http://pbs.twimg.com/profile_images/3126280556/607658e15ab1d25f64cd3797e3006337.jpeg
+465,1178453745782251520,-1.0,no_face,-1.0,Canada 🇨🇦🕊❤️ Edmonton,http://pbs.twimg.com/profile_images/1090335830437068800/im2tQPRu.jpg
+466,1178453751067267072,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1164338318043164672/v1HDjDwV.jpg
+467,1178453753319624705,34.477714564842245,f,0.8807650208473206,"Texas, USA",http://pbs.twimg.com/profile_images/428644784224210944/IcOb7oKV.jpeg
+468,1178453769891172352,-1.0,no_face,-1.0,"Vancouver Island, Canada",http://pbs.twimg.com/profile_images/1240341927528026112/ATCriNhQ.jpg
+469,1178453777126322176,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/683028490023641088/NMl13myR.jpg
+470,1178453795606552577,51.25741284907781,f,0.5032477974891663,"Port Charlotte, FL",http://pbs.twimg.com/profile_images/1242647052049399808/B0yQ504C.jpg
+471,1178453812467699717,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/790181206172299264/Xs7cC3T8.jpg
+472,1178453813755138048,28.516294103857945,f,0.8194893002510071,,http://pbs.twimg.com/profile_images/1162493710577197056/ZddiKQ06.jpg
+473,1178453831979618306,58.86133802201584,m,0.07033468037843704,"USA, NC, Island",http://pbs.twimg.com/profile_images/1206015251650678784/MICcVj9T.jpg
+474,1178453838749143045,40.790483748103725,m,0.3408133089542389,"Florida, USA",http://pbs.twimg.com/profile_images/1058140282166886400/qnjkTJRb.jpg
+475,1178453843232935941,-1.0,no_face,-1.0,Worldwide,http://pbs.twimg.com/profile_images/701708113653669888/Nzm67hhC.png
+476,1178453870596497408,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1164338318043164672/v1HDjDwV.jpg
+477,1178453885192679425,-1.0,no_face,-1.0,"North Carolina, USA",http://pbs.twimg.com/profile_images/1059201977782034433/4olNAcO0.jpg
+478,1178453887004692480,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/378800000631365869/17bcfad95db78f41241735c72db057bb.jpeg
+479,1178453905434402817,-1.0,no_face,-1.0,Germany,http://pbs.twimg.com/profile_images/378800000722367556/fdaefd604ced60928d1bf7a6b1a1784b.jpeg
+480,1178453958467215361,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1164246494280585216/aWSEJaSI.jpg
+481,1178453979652673536,-1.0,no_face,-1.0,Globally l Planet Earth,http://pbs.twimg.com/profile_images/1164769324541702145/TRv0g4ZL.jpg
+482,1178453988926201856,-1.0,no_face,-1.0,"Philadelphia, PA",http://pbs.twimg.com/profile_images/1187896118794952705/LdCTVtTK.jpg
+483,1178453990373244928,32.012604569477844,m,0.43513599038124084,,http://pbs.twimg.com/profile_images/913931913806663680/JCtjMoAu.jpg
+484,1178454011445420036,48.59377450926695,m,0.236898735165596,"Charleston, WV",http://pbs.twimg.com/profile_images/434899280415821824/MkAJRHyE.jpeg
+485,1178454030063984640,59.59924390861988,m,0.021812088787555695,Ottawa ON and Austin TX,http://pbs.twimg.com/profile_images/1168342232711225344/2ZpAeT_0.jpg
+486,1178454032194637824,51.07867897230028,m,0.009205229580402374,"Hudson Valley, NY, USA",http://pbs.twimg.com/profile_images/1239963258125246465/_SzMrXlw.jpg
+487,1178454052151021568,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1169922090146750464/ziIG6y-p.jpg
+488,1178454053329784832,17.078409211586404,f,0.7808507680892944,,http://pbs.twimg.com/profile_images/1128168332232921093/BMAkC0vL.png
+489,1178454068890521601,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1178454258212978688/a1sVp_33.jpg
+490,1178454073298866177,36.942569691826066,m,0.05149296671152115,"Springfield, MO",http://pbs.twimg.com/profile_images/1087878057208233989/gmc0WQnG.jpg
+491,1178454074208899072,-1.0,no_face,-1.0,Victoria,http://pbs.twimg.com/profile_images/1179592903523368961/BAwnAXqx.jpg
+492,1178454081620201472,-1.0,no_face,-1.0,🇨🇦🇺🇸🇦🇺🇮🇩,http://pbs.twimg.com/profile_images/1241851682260054018/BmNN3JcA.jpg
+493,1178454083713327106,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1168634722391613444/CIYrCXag.jpg
+494,1178454108812009474,46.78352170766266,m,0.030684202909469604,,http://pbs.twimg.com/profile_images/1129540570823528448/QqF0aXsD.png
+495,1178454123856961537,32.16199145060091,m,0.10222910344600677,"Colorado, USA",http://pbs.twimg.com/profile_images/1130686938560643072/tQEWUf9s.jpg
+496,1178454127719768065,-1.0,no_face,-1.0,Auckland New Zealand,http://pbs.twimg.com/profile_images/1161870569475678208/H5DL6F_A.png
+497,1178454134569218052,66.61853348808472,m,0.06905478984117508,,http://pbs.twimg.com/profile_images/650159734687989760/zpmKdJcS.jpg
+498,1178454138578968576,24.317923419715953,f,0.7465741038322449,,http://pbs.twimg.com/profile_images/1194738494377254912/xtbG8Ird.jpg
+499,1178454156597579776,55.34198115467893,m,0.014509708620607853,"Edmonton, Alberta",http://pbs.twimg.com/profile_images/917937349467586560/a4UvJp5l.jpg
+500,1178451740435214338,-1.0,no_face,-1.0,"West Hollywood, CA",http://pbs.twimg.com/profile_images/378800000314281645/e46703652e932ebe785e25bf0572d2c2.jpeg
+501,1178451745216679936,59.295022373337815,m,0.019549701362848282,"Melbourne, London, Menlo Park",http://pbs.twimg.com/profile_images/815670325392224256/9Ihsd0sA.jpg
+502,1178451746034716672,53.37959497502925,m,0.04700259119272232,The Coast,http://pbs.twimg.com/profile_images/1254370756282155008/3N2clvWX.jpg
+503,1178451746605060096,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/950219446429237248/7ythBPOZ.jpg
+504,1178451764955119616,26.786554273738147,f,0.8644644021987915,,http://pbs.twimg.com/profile_images/1158927750293417984/qxiSzagb.jpg
+505,1178451813424668673,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1047557891564208134/YLcdOBQu.jpg
+506,1178451843854340096,-1.0,no_face,-1.0,bangladesh,http://pbs.twimg.com/profile_images/1214770490205704192/XMXBoe_w.jpg
+507,1178451855648518144,-1.0,no_face,-1.0,Los Angeles,http://pbs.twimg.com/profile_images/868006412198092800/b8PCou3i.jpg
+508,1178451862934061056,-1.0,no_face,-1.0,"Kuala Lumpur, Wilayah Persekut",http://pbs.twimg.com/profile_images/1253207457062510592/kPLCmZo3.jpg
+509,1178451869376618496,38.25942505756393,m,0.2786863148212433,"Texas, USA",http://pbs.twimg.com/profile_images/884237696520073217/t_e-6NVq.jpg
+510,1178451888687194112,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/603799757757161473/LuXO3VeR.jpg
+511,1178451891677589504,-1.0,no_face,-1.0,"Washington, DC",http://pbs.twimg.com/profile_images/1204868628325253120/QjU-441s.jpg
+512,1178451891820347394,-1.0,no_face,-1.0,Caribbean,http://pbs.twimg.com/profile_images/923325401950126081/RvbYe6oR.jpg
+513,1178451892134907905,-1.0,no_face,-1.0,India,http://pbs.twimg.com/profile_images/875597226747207681/0jkhMbbB.jpg
+514,1178451894630572032,29.66350314596673,m,0.0030749430879950523,Dubai,http://pbs.twimg.com/profile_images/986532655524188161/ktlzok7U.jpg
+515,1178451903723819013,-1.0,no_face,-1.0,"Portland, OR",http://pbs.twimg.com/profile_images/953749457664860160/GjzXQkyA.jpg
+516,1178451923776741379,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1251961767766495233/6pspIbDb.jpg
+517,1178451931339149314,-1.0,no_face,-1.0,All over UK,http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+518,1178451933264334848,-1.0,no_face,-1.0,Detroit,http://pbs.twimg.com/profile_images/1074714327343661059/dCYeQTjM.jpg
+519,1178451938582630401,-1.0,no_face,-1.0,"Florida, USA",http://pbs.twimg.com/profile_images/986644764954169344/ShkYAw0X.jpg
+520,1178451939501035521,-1.0,no_face,-1.0,"Klamath Falls, Oregon",http://pbs.twimg.com/profile_images/378800000353303985/95203e8868d71f780b81ce1873d383c3.jpeg
+521,1178451940532899840,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1232701704845455360/DoVkH7M0.jpg
+522,1178451947206201344,50.6564207168085,m,0.01649973914027214,"Jersey Shore, NJ",http://pbs.twimg.com/profile_images/1085589670568841217/l9YyKkLS.jpg
+523,1178451959705153540,42.35325629959698,m,0.2178928554058075,"Maine, USA",http://pbs.twimg.com/profile_images/1044349280712974336/qBYT_GX9.jpg
+524,1178451972208373761,-1.0,no_face,-1.0,johnstown OH-IO,http://pbs.twimg.com/profile_images/1226673709487779840/BikppEME.jpg
+525,1178451974867562497,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1146437628520255489/YrNGmcE3.jpg
+526,1178451983960698880,-1.0,no_face,-1.0,Japan,http://pbs.twimg.com/profile_images/1124301555329523713/o9fcnJwc.jpg
+527,1178451985705705473,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1251160178998706177/x-X3fwdD.jpg
+528,1178452002730213377,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1256836515860103168/7yD6ja47.jpg
+529,1178452005012066306,35.49057022945453,m,0.06777233630418777,São Paulo ,http://pbs.twimg.com/profile_images/995367464237240320/zfusEhre.jpg
+530,1178452011358003200,44.1086655666295,m,0.033672429621219635,,http://pbs.twimg.com/profile_images/1163599400352006144/Rb2MlWSv.jpg
+531,1178452016659451905,-1.0,no_face,-1.0,"Cronulla, Sydney",http://pbs.twimg.com/profile_images/822955683704279040/p_qNYbht.jpg
+532,1178452020279296000,41.15596908290172,m,0.13229221105575562,L,http://pbs.twimg.com/profile_images/1257480466082549761/AiaNB-A3.jpg
+533,1178452031096414210,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/3336661421/c66a8f17d5d24ca1f2cd6bf2b30f6c75.jpeg
+534,1178452038390124546,27.765522263614002,f,0.9900819659233093,"Townsville, Queensland",http://pbs.twimg.com/profile_images/1191898619118440448/ybGLVgzt.jpg
+535,1178452046514675712,43.436038492300895,m,0.022011036053299904,"New Hampshire, USA",http://pbs.twimg.com/profile_images/1241448923312652288/PXacSb84.jpg
+536,1178452070510338049,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/927295002119692290/FbeU_wQH.jpg
+537,1178452075715289088,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/922591250661953538/MQX0dojU.jpg
+538,1178452078940655616,-1.0,no_face,-1.0,"Sydney, Australia",http://pbs.twimg.com/profile_images/704652161800470528/7I0UUk98.jpg
+539,1178452089720074240,-1.0,no_face,-1.0,,http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+540,1178452099547443200,-1.0,no_face,-1.0,Floriduh,http://pbs.twimg.com/profile_images/1212752934641045505/F9Gq4T8q.jpg
+541,1178452108141481986,-1.0,no_face,-1.0,United States,http://pbs.twimg.com/profile_images/909640446388846592/hSDGNV9Q.jpg
+542,1178452119847870467,-1.0,no_face,-1.0,"Cape Breton, Nova Scotia",http://pbs.twimg.com/profile_images/1130967755027492865/vtVqDc6Z.jpg
+543,1178452129570344960,-1.0,no_face,-1.0,Canada,http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+544,1178452138059452416,48.19149531610674,m,0.13577206432819366,"Adelaide, South Australia",http://pbs.twimg.com/profile_images/2838794629/1bdeb10ff631abdde49a251cd53da7d3.jpeg
+545,1178452138642554882,34.34479448968591,m,0.024673115462064743,"Augusta, ME",http://pbs.twimg.com/profile_images/1154843580793577472/8eWOMDyh.jpg
+546,1178452139628204032,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1088178999447162881/x5rYxldU.jpg
+547,1178452145630273538,47.22447234892752,m,0.10232506692409515,Cranberry Island Maine,http://pbs.twimg.com/profile_images/943106885468807168/F3ZTfo0L.jpg
+548,1178452152051585024,-1.0,no_face,-1.0,Oakland,http://pbs.twimg.com/profile_images/1245028151865962496/VqRZU_8V.jpg
+549,1178452163527397376,-1.0,no_face,-1.0,"North Carolina, USA",http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+550,1178452178966417412,-1.0,no_face,-1.0,United States,http://pbs.twimg.com/profile_images/1056669840201502721/pJQwkFaD.jpg
+551,1178452182477262848,19.4109878244617,f,0.8486607670783997,,http://pbs.twimg.com/profile_images/1257675966534561792/styvEnN4.jpg
+552,1178452201158725632,25.1043794538748,m,0.02629592828452587,The World,http://pbs.twimg.com/profile_images/1230633815573487620/E3mVTViq.jpg
+553,1178452213167001601,-1.0,no_face,-1.0,"Like CityTV, I'm everywhere",http://pbs.twimg.com/profile_images/1147536527003705347/ej3zBOsx.jpg
+554,1178452232746029057,40.522688082761306,f,0.9457507729530334,Chicago,http://pbs.twimg.com/profile_images/1161990109/IMG_0483C_copy.jpg
+555,1178452235497418757,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/919327428165726208/7f7bIAXw.jpg
+556,1178452250643111936,49.16271050123032,m,0.22338037192821503,Midwest Red state👤🇺🇸,http://pbs.twimg.com/profile_images/1032032524262940672/IKQZDhHD.jpg
+557,1178452266514337792,-1.0,no_face,-1.0,Saskatoon,http://pbs.twimg.com/profile_images/1061658888108498944/lTPffBBV.jpg
+558,1178452299095642112,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1080952195376386049/zN49yECT.jpg
+559,1178452313855406082,32.03908072064223,m,0.1648176908493042,,http://pbs.twimg.com/profile_images/901818668597870592/vcYH09kT.jpg
+560,1178452325976817664,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/683028490023641088/NMl13myR.jpg
+561,1178452344016687104,-1.0,no_face,-1.0,Poland,http://pbs.twimg.com/profile_images/1253247545633013761/oBZFJSYx.png
+562,1178452348718501891,25.100169690220355,f,0.9386163949966431,"North West, England",http://pbs.twimg.com/profile_images/1257409453286187016/bNk5G3ZW.jpg
+563,1178452354070392832,44.15711912625193,m,0.04058368131518364,Ontario Canada,http://pbs.twimg.com/profile_images/2255831086/Dan_Icon.jpg
+564,1178452358164074498,39.197854991144595,m,0.011472457088530064,Earth,http://pbs.twimg.com/profile_images/2498944124/0fkj3efl3afce0l5kifh.jpeg
+565,1178452377126494209,-1.0,no_face,-1.0,Winnipeg 204 995 3465,http://pbs.twimg.com/profile_images/863575661910392835/SCCivbhJ.jpg
+566,1178452387729563651,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1256402268728905731/jnbHvU2A.jpg
+567,1178452396235616256,-1.0,no_face,-1.0,QLD Australia,http://pbs.twimg.com/profile_images/442512413036789761/dNNszX73.jpeg
+568,1178452397116579842,-1.0,no_face,-1.0,"Washington, D.C.",http://pbs.twimg.com/profile_images/897150375093993473/0eVvY80D.jpg
+569,1178452406927056896,43.33056535370997,m,0.3044888377189636,Salford,http://pbs.twimg.com/profile_images/1148509230216990720/toKnHgzF.jpg
+570,1178452417765167115,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1022117860972396544/cSneKYlF.jpg
+571,1178452423104446468,-1.0,no_face,-1.0,"Mountain View, Ca",http://pbs.twimg.com/profile_images/2498599596/5kq4qh0bk9t45g9dt8qy.jpeg
+572,1178452463139065857,-1.0,no_face,-1.0,Somewhere in the Central USA,http://pbs.twimg.com/profile_images/1160538361301524481/ISe-xQhR.jpg
+573,1178452468692213760,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/661407811612508161/S3JwMrrH.png
+574,1178452481270923264,33.23895040485513,m,0.4509999454021454,amiskwacîwâskahikan,http://pbs.twimg.com/profile_images/1183606015570239488/cjSGr6PJ.jpg
+575,1178452484542681089,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1109968170578784256/Ue5PtqoY.jpg
+576,1178452485880631297,-1.0,no_face,-1.0,USA,http://pbs.twimg.com/profile_images/988195845026693120/QY9gDRQP.jpg
+577,1178452486937546752,46.98643786485604,m,0.026385579258203506,"England, United Kingdom",http://pbs.twimg.com/profile_images/1255429058319573002/pmt2lSD4.jpg
+578,1178452494428639232,61.856344996023836,m,0.08807240426540375,Minnesota,http://pbs.twimg.com/profile_images/443740081212239872/NUioJPHW.jpeg
+579,1178452502305546240,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1175219667876614144/xQBnCq11.jpg
+580,1178452546064486400,-1.0,no_face,-1.0,Canada,http://pbs.twimg.com/profile_images/1088236535449714688/msY6briW.jpg
+581,1178452550217076736,-1.0,no_face,-1.0,"Black Earth, Wisconsin",http://pbs.twimg.com/profile_images/664878767702020097/JQVhZyJU.png
+582,1178452563236012032,42.700906149808134,m,0.012393924407660961,Australia,http://pbs.twimg.com/profile_images/1187572502861496320/yQNwEQe6.jpg
+583,1178452586040614912,61.815049242401074,f,0.8840129971504211,,http://pbs.twimg.com/profile_images/1147723238988034049/HIIUpKzd.jpg
+584,1178452603895795714,-1.0,no_face,-1.0,New Jersey,http://pbs.twimg.com/profile_images/1253111135164944387/1u6qYS0n.jpg
+585,1178452605451681792,-1.0,no_face,-1.0,Canada,http://pbs.twimg.com/profile_images/1182504509555261440/gwVEC33e.jpg
+586,1178452616751144960,25.216261802924237,f,0.9551544785499573,"San Jose, CA",http://pbs.twimg.com/profile_images/1062592105111969792/Ri2dJT2-.jpg
+587,1178452633557897217,-1.0,no_face,-1.0,Everywhere,http://pbs.twimg.com/profile_images/1240055510407286784/3RbDr9pb.jpg
+588,1178452634757255170,30.835788373657124,f,0.651579737663269,"San Diego, CA",http://pbs.twimg.com/profile_images/831205941966090240/Nykt6E_y.jpg
+589,1178452644894924800,-1.0,no_face,-1.0,"Alberta, Canada",http://pbs.twimg.com/profile_images/1093762767075520512/XS6L87o7.jpg
+590,1178452685160402944,-1.0,no_face,-1.0,پردیسی,http://pbs.twimg.com/profile_images/1162209525660676098/8OL8DCGf.jpg
+591,1178452691191660544,-1.0,no_face,-1.0,Scottsdale AZ,http://pbs.twimg.com/profile_images/2710320552/d0d9c28f78579d98f7cb7c0e374f3ea1.png
+592,1178452722808446984,-1.0,no_face,-1.0,Worldwide,http://pbs.twimg.com/profile_images/1499971326/facebook_icon.jpg
+593,1178452735189872640,-1.0,no_face,-1.0, Colorado,http://pbs.twimg.com/profile_images/1535077159/187265_1486690753_1230204_q.jpg
+594,1178452745302335488,29.96163982548967,f,0.9484052062034607,,http://pbs.twimg.com/profile_images/801204897123180545/uCQMeT8C.jpg
+595,1178452762310451200,-1.0,no_face,-1.0,"Largo, FL",http://pbs.twimg.com/profile_images/1090606253842333697/BUoRkoVw.jpg
+596,1178452782581452800,-1.0,no_face,-1.0,cryingseoul 🇨🇦,http://pbs.twimg.com/profile_images/1258228779748667392/FFKkeV1V.jpg
+597,1178452795067781121,56.4169212724446,f,0.7746759653091431,Southern California,http://pbs.twimg.com/profile_images/815755086492094465/ffRBdS7s.jpg
+598,1178452797509001216,-1.0,no_face,-1.0,"Lahore, Pakistan",http://pbs.twimg.com/profile_images/1257536425077153797/fGmCLJdG.jpg
+599,1178452798192656385,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1142765594485448704/YEp9w9gR.jpg
+600,1178450525639122944,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1214101482150203392/hZZtSNcU.jpg
+601,1178450527849472000,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/956792405587578881/y1GYFf15.jpg
+602,1178450531431223297,31.989846665231198,f,0.8973349332809448,,http://pbs.twimg.com/profile_images/661278692417531904/rmWoW-_p.jpg
+603,1178450533662756866,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/684910119717568513/86pjYkv2.jpg
+604,1178450568416641024,36.01080550767392,m,0.01566453091800213,Los Angeles,http://pbs.twimg.com/profile_images/923646765709934592/ZvMgahJ0.jpg
+605,1178450585776996353,30.087758540467803,m,0.02838641218841076,"Nottingham, England",http://pbs.twimg.com/profile_images/1062029057595002886/fLRLh6SZ.jpg
+606,1178450589581287426,-1.0,no_face,-1.0,"Iowa, USA",http://pbs.twimg.com/profile_images/1253854583593545728/rvD-Lv0J.jpg
+607,1178450595193090048,32.26302906071942,m,0.4035588502883911,,http://pbs.twimg.com/profile_images/2568295626/obama-snob.jpg
+608,1178450611466952704,-1.0,no_face,-1.0,New England NSW Australia,http://pbs.twimg.com/profile_images/1304143946/me.jpg
+609,1178450630211358721,-1.0,no_face,-1.0,Lost in Space,http://pbs.twimg.com/profile_images/3689429223/97dba4e74f9d06d9ed2816a25f9597f4.jpeg
+610,1178450635886383106,-1.0,no_face,-1.0, Northwest Wisconsin,http://pbs.twimg.com/profile_images/1139918770611187712/1ydZIyEm.jpg
+611,1178450646086885377,-1.0,no_face,-1.0,"Los Angeles, CA",http://pbs.twimg.com/profile_images/1212199850369880064/uf9DmCXE.jpg
+612,1178450650985689088,-1.0,no_face,-1.0,🔴 #MAGA  🔴  #ProudAmerican  ,http://pbs.twimg.com/profile_images/785898777429184512/pvyy0Cyr.jpg
+613,1178450656639750145,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1036752133171761152/SOA0m39t.jpg
+614,1178450662893457409,34.614754011879995,f,0.9733153581619263,"Nashville, TN",http://pbs.twimg.com/profile_images/1256080564752392192/Z-n4iHxV.jpg
+615,1178450664759926784,-1.0,no_face,-1.0,Minnesota,http://pbs.twimg.com/profile_images/1251511477288275968/RIprOzS4.jpg
+616,1178450682392670208,-1.0,no_face,-1.0,Northern California,http://pbs.twimg.com/profile_images/1074748254418391040/nh-LuBSj.jpg
+617,1178450698150629376,-1.0,no_face,-1.0,"Auckland, New Zealand",http://pbs.twimg.com/profile_images/815450169739120640/R0c5tHTO.jpg
+618,1178450704614219777,-1.0,no_face,-1.0,Howdy,http://pbs.twimg.com/profile_images/1227978215794335747/u8f_C28z.jpg
+619,1178450723614396417,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1158300181/dm_sculpture_garden_018.jpg
+620,1178450736310624256,-1.0,no_face,-1.0,"Kentucky, USA",http://pbs.twimg.com/profile_images/1243935737780764672/eU9GCjjC.jpg
+621,1178450737384378374,-1.0,no_face,-1.0,Detroit,http://pbs.twimg.com/profile_images/1178682475335303170/1nhWoJAV.jpg
+622,1178450737749209094,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1167939761975320576/L12hUlBW.jpg
+623,1178450768552054790,-1.0,no_face,-1.0,"Pakenham, Victora, Australia",http://pbs.twimg.com/profile_images/1013244482282668032/BO0D4lYb.jpg
+624,1178450773656530946,61.3953464069491,m,0.047230932861566544,United States,http://pbs.twimg.com/profile_images/899747059540119552/OatWEweY.jpg
+625,1178450785211834368,-1.0,no_face,-1.0,"Exeter (NSW), New South Wales",http://pbs.twimg.com/profile_images/992657428507385857/J0DeY8Sv.jpg
+626,1178450791071244289,-1.0,no_face,-1.0,"Quesnel, British Columbia",http://pbs.twimg.com/profile_images/1199116816636731394/QwM6Rx2h.jpg
+627,1178450815339638784,-1.0,no_face,-1.0,Canada,http://pbs.twimg.com/profile_images/1175380988035252224/_rgiy7YP.jpg
+628,1178450834868330497,35.592021469332394,m,0.41779956221580505,"Saskatchewan, Canada",http://pbs.twimg.com/profile_images/469302705421164545/vJ_XvmSh.jpeg
+629,1178450842426511361,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1229202132227809280/euasAum4.jpg
+630,1178450843470725120,58.00033677247211,m,0.028169281780719757,"Elong Elong, New South Wales",http://pbs.twimg.com/profile_images/907049746774159360/SixCJZnH.jpg
+631,1178450846259924993,23.894537313190085,f,0.9213038682937622,Fiji,http://pbs.twimg.com/profile_images/558169265484738562/9qeKtB9o.jpeg
+632,1178450851188359169,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1176950455001374721/TtCnZ6Zg.jpg
+633,1178450887490068483,18.426635187158354,m,0.04291735962033272,"New York, NY",http://pbs.twimg.com/profile_images/1082029301124472838/je1FdqiH.jpg
+634,1178450892871352320,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1161298293105876993/M95D4EMP.jpg
+635,1178450926467719168,-1.0,no_face,-1.0,"Southern US State, USA ",http://pbs.twimg.com/profile_images/1236779768185585665/u-jKkZcd.jpg
+636,1178450946382336003,-1.0,no_face,-1.0,New Zealand,http://pbs.twimg.com/profile_images/378800000080455804/ad4249ac1021a7901bd5810ae668ab74.png
+637,1178450967198666758,-1.0,no_face,-1.0,"Endicott, New York",http://pbs.twimg.com/profile_images/1084463754639749120/FN_eoCqU.jpg
+638,1178450971522940929,-1.0,no_face,-1.0,http://www.drjohnbergman.com/,http://pbs.twimg.com/profile_images/531229292777463808/QbH-bDgn.jpeg
+639,1178450979131256832,-1.0,no_face,-1.0,Australia,http://pbs.twimg.com/profile_images/1229429613442453506/ZXvq036d.jpg
+640,1178450983493554182,46.233962995121146,f,0.9695597887039185,Canada...yay!!,http://pbs.twimg.com/profile_images/1202953188762099712/A-pCM9im.jpg
+641,1178450997997211649,40.48922184019466,f,0.9385895133018494,"Durango, Colorado",http://pbs.twimg.com/profile_images/378800000643643770/6d4b6ef09baba589861e880037e2bdb8.jpeg
+642,1178451034911363072,-1.0,no_face,-1.0,Australia,http://pbs.twimg.com/profile_images/1170560751217496069/8QzdP5Uq.jpg
+643,1178451053093834753,12.420699149676693,m,0.40433183312416077,,http://pbs.twimg.com/profile_images/834731674260877316/Jgs9q_Vk.jpg
+644,1178451068285521922,-1.0,no_face,-1.0,"New York, USA",http://pbs.twimg.com/profile_images/927765598356074498/he5-Gwx2.jpg
+645,1178451070768558081,-1.0,no_face,-1.0,Minnesota,http://pbs.twimg.com/profile_images/910558252248821760/ezsdoT12.jpg
+646,1178451074031730694,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1099490482302918656/zMy7Lzoj.jpg
+647,1178451095972143105,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1176249309366542336/8vt3GeOA.jpg
+648,1178451109095956482,48.79630830853421,m,0.23987793922424316,United States,http://pbs.twimg.com/profile_images/1225668634590056455/mC3w8Sxb.jpg
+649,1178451109431504896,51.26402048193995,f,0.9790103435516357,On Gadigal land ,http://pbs.twimg.com/profile_images/810600187127209984/fxwQsMk1.jpg
+650,1178451127961915392,55.03468909034564,m,0.3143613636493683,NYC & California,http://pbs.twimg.com/profile_images/1165825449085136896/ycPsqJXb.jpg
+651,1178451155048783873,-1.0,no_face,-1.0,"Hartford, CT",http://pbs.twimg.com/profile_images/837029981633015809/5UtTzpZ5.jpg
+652,1178451163018076161,57.442641121711404,m,0.02002018690109253,"Regina, Saskatchewan",http://pbs.twimg.com/profile_images/925157656506990592/TKaTqkEA.jpg
+653,1178451163751993344,22.458156027525547,f,0.6310558915138245,Jakarta ↔ Semarang→ Seoul soon,http://pbs.twimg.com/profile_images/1258564097106341888/mgaxLZYW.png
+654,1178451176637042688,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1180280787960303617/OXCIRMlu.jpg
+655,1178451205594304512,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/683028490023641088/NMl13myR.jpg
+656,1178451231192293383,29.540666128974408,m,0.4798108637332916,,http://pbs.twimg.com/profile_images/1085229211479166976/B8D_2rPU.jpg
+657,1178451238599495681,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1231435553796743168/U9HRuG9Y.jpg
+658,1178451267431075841,-1.0,no_face,-1.0,http://www.drjohnbergman.com/,http://pbs.twimg.com/profile_images/531229292777463808/QbH-bDgn.jpeg
+659,1178451312469405696,35.563188830205945,f,0.7682701945304871,"Arvada, CO",http://pbs.twimg.com/profile_images/1228503100794851329/ufofVqJ7.jpg
+660,1178451320589688832,-1.0,no_face,-1.0,"Donegal, Ireland",http://pbs.twimg.com/profile_images/1815572787/67drUiB6
+661,1178451321151725568,40.40985167684701,m,0.013404789380729198,"Minneapolis, MN",http://pbs.twimg.com/profile_images/953488455501209600/xkDGnHQt.jpg
+662,1178451330249232385,-1.0,no_face,-1.0,New South Wales South coast,http://pbs.twimg.com/profile_images/1225591891674054656/Zx9X6r-V.jpg
+663,1178451343238787072,-1.0,no_face,-1.0,"Las Vegas, NV",http://pbs.twimg.com/profile_images/1041807995452088320/LYXHdXnR.jpg
+664,1178451355351994368,41.984169372832184,f,0.9760810136795044,,http://pbs.twimg.com/profile_images/1170451581596078080/TKkcQbJ1.jpg
+665,1178451382984216576,30.831830146810717,f,0.7907829880714417,Officially Started 11/4/18 ,http://pbs.twimg.com/profile_images/1062565221796118528/gTnW9ZAA.jpg
+666,1178451385349591041,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/683028490023641088/NMl13myR.jpg
+667,1178451392274616323,24.476880806832924,f,0.9397734999656677,,http://pbs.twimg.com/profile_images/1258442780357152770/N2aj4yCR.jpg
+668,1178451400499449857,62.23586535923823,m,0.03215648606419563,Planet Earth (Australia),http://pbs.twimg.com/profile_images/1197329044397641728/jdsxtRMM.jpg
+669,1178451413325795330,-1.0,no_face,-1.0,yyz,http://pbs.twimg.com/profile_images/1197325566787145729/14eymhZP.jpg
+670,1178451452643164163,-1.0,no_face,-1.0,"Scotland, United Kingdom",http://pbs.twimg.com/profile_images/1199074570629795840/Ezuw0Kvg.jpg
+671,1178451467038085127,53.48536404306287,m,0.03775930032134056,"Kanata, Ontario, Canada",http://pbs.twimg.com/profile_images/922275415502344193/8UKLn6Sm.jpg
+672,1178451468317278214,-1.0,no_face,-1.0,"New Orleans, LA",http://pbs.twimg.com/profile_images/1117620386466861056/6ph3mszU.jpg
+673,1178451500441452545,-1.0,no_face,-1.0,New Jersey,http://pbs.twimg.com/profile_images/758090866057764864/nMTzDDp0.jpg
+674,1178451505927475200,-1.0,no_face,-1.0,"Kelowna, Canada",http://pbs.twimg.com/profile_images/833515129241231360/zhH7OiFv.jpg
+675,1178451516719415296,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1177872770400522241/GBZqAg3q.jpg
+676,1178451535035895808,-1.0,no_face,-1.0,"California, USA",http://pbs.twimg.com/profile_images/2173932488/Scan5.jpg
+677,1178451542350991362,31.975218738451076,m,0.08484947681427002,,http://pbs.twimg.com/profile_images/1258523403734089733/BMMCbsgA.jpg
+678,1178451543969783808,-1.0,no_face,-1.0,"Chicago, IL",http://pbs.twimg.com/profile_images/1257652195547205633/WFCC7eKF.jpg
+679,1178451544011878406,-1.0,no_face,-1.0,"Kentucky, USA",http://pbs.twimg.com/profile_images/1212560941885333504/odhlrgYV.jpg
+680,1178451563330838535,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1222045794351702017/HVqqMUiS.jpg
+681,1178451590447063041,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1142343223987380224/tWW89Uld.jpg
+682,1178451612303409152,-1.0,no_face,-1.0,"Melbourne, Australia",http://pbs.twimg.com/profile_images/378800000170617037/a6dc8d46404fcc53b5fae307fc0cee4e.png
+683,1178451614396379136,36.56754411950874,m,0.0052878763526678085,"Golden, CO",http://pbs.twimg.com/profile_images/1062173143299584000/mj8TA0kW.jpg
+684,1178451625544945664,-1.0,no_face,-1.0,Neverland,http://pbs.twimg.com/profile_images/1237958410043371520/EULLeGei.png
+685,1178451631106662403,30.982556028067847,m,0.027158772572875023,"Toronto, Ontario",http://pbs.twimg.com/profile_images/1247010935111286787/UGQcMs1X.jpg
+686,1178451634671771657,-1.0,no_face,-1.0,USA,http://pbs.twimg.com/profile_images/1103350490920816644/I12Er3fJ.jpg
+687,1178451640120201217,-1.0,no_face,-1.0,Washington DC,http://pbs.twimg.com/profile_images/1175610167456612353/giRWVlIN.jpg
+688,1178451650282844161,-1.0,no_face,-1.0,"Saskatchewan, Canada",http://pbs.twimg.com/profile_images/1203770127226830848/Puc00JzB.jpg
+689,1178451652141076480,26.74706289812275,f,0.8699968457221985,Patagonia,http://pbs.twimg.com/profile_images/1247696242110607362/LsyOVk_N.jpg
+690,1178451656234676225,-1.0,no_face,-1.0,"Champaign, IL, USA",http://pbs.twimg.com/profile_images/584531811637731329/maOKJHGh.jpg
+691,1178451683791310848,-1.0,no_face,-1.0,????,http://pbs.twimg.com/profile_images/1170778963800711168/XxiJ_WYo.jpg
+692,1178451697053646848,-1.0,no_face,-1.0,,http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+693,1178451707849691137,37.93046165008309,m,0.020966559648513794,"Melbourne, Victoria",http://pbs.twimg.com/profile_images/1117304558303080448/7GL0CkOV.png
+694,1178451711133806594,-1.0,no_face,-1.0,"Bellingham, WA",http://pbs.twimg.com/profile_images/1115333334526091264/VLG0JiMA.png
+695,1178451717777580032,-1.0,no_face,-1.0,"Bellingham, WA",http://pbs.twimg.com/profile_images/1115333334526091264/VLG0JiMA.png
+696,1178451721015545856,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1008855202064027648/SKXvD88Q.jpg
+697,1178451726220709888,-1.0,no_face,-1.0,"Bellingham, WA",http://pbs.twimg.com/profile_images/1115333334526091264/VLG0JiMA.png
+698,1178451734072446976,-1.0,no_face,-1.0,"Bellingham, WA",http://pbs.twimg.com/profile_images/1115333334526091264/VLG0JiMA.png
+699,1178451736928931841,34.89779192606147,m,0.019431019201874733,"Charlotte, NC",http://pbs.twimg.com/profile_images/1032422087774924801/kFx4Pwrb.jpg
+700,1178449288952766464,23.006366077304847,f,0.7832964062690735,"Louisiana, USA",http://pbs.twimg.com/profile_images/1250127234360324100/_n9LRooR.jpg
+701,1178449292689846272,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/961107040230920194/J7EFkF7Y.jpg
+702,1178449301057368065,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/916032785957101573/Sd3QZqYL.jpg
+703,1178449310855221248,-1.0,no_face,-1.0,#EarthJustice,http://pbs.twimg.com/profile_images/1252066838441156610/AjLVBn3l.jpg
+704,1178449321978580992,-1.0,no_face,-1.0,The Bat Cave,http://pbs.twimg.com/profile_images/3069998977/e7e378ca187f35b435f901c61ee72a39.jpeg
+705,1178449327179603969,-1.0,no_face,-1.0,"Boston, MA",http://pbs.twimg.com/profile_images/1110159136979849217/EC4barLe.jpg
+706,1178449342660669440,-1.0,no_face,-1.0,"Sydney, New South Wales",http://pbs.twimg.com/profile_images/897421103617921024/7Na6k237.jpg
+707,1178449353553281024,-1.0,no_face,-1.0,"Pakenham, Victora, Australia",http://pbs.twimg.com/profile_images/1013244482282668032/BO0D4lYb.jpg
+708,1178449356007104514,59.21131680600229,m,0.062329307198524475,Wicklow,http://pbs.twimg.com/profile_images/852933600446218240/kdpJ9Thm.jpg
+709,1178449364873830400,36.35053226572927,m,0.21061214804649353,,http://pbs.twimg.com/profile_images/3081849766/8fc1b46d7895c1e173616cc096a1dc19.png
+710,1178449382854811648,-1.0,no_face,-1.0,Worldwide,http://pbs.twimg.com/profile_images/657304927337861120/cfyL3x-L.png
+711,1178449386050711552,-1.0,no_face,-1.0,Canada,http://pbs.twimg.com/profile_images/1252978479181606919/0uwJHQSe.jpg
+712,1178449397484384257,-1.0,no_face,-1.0,#CentralAmerica in @mexico,http://pbs.twimg.com/profile_images/1241955619772358656/PTIH5TnH.jpg
+713,1178449435065499648,-1.0,no_face,-1.0,"Ohio, USA",http://pbs.twimg.com/profile_images/1188610911843573766/WuLGhcjP.jpg
+714,1178449450735415296,-1.0,no_face,-1.0,"Iowa, USA",http://pbs.twimg.com/profile_images/1118707348107866112/6D91C1J8.png
+715,1178449462395465729,-1.0,no_face,-1.0,"Pakenham, Victora, Australia",http://pbs.twimg.com/profile_images/1013244482282668032/BO0D4lYb.jpg
+716,1178449468234051585,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1192056792580313088/MQ_MIejo.jpg
+717,1178449475309838336,-1.0,no_face,-1.0,near the holy city ,http://pbs.twimg.com/profile_images/1131349265085714432/_sHTJELp.jpg
+718,1178449479004872704,-1.0,no_face,-1.0,"Australia, New Zealand, USA",http://pbs.twimg.com/profile_images/904895297796456449/fv0JFKj3.jpg
+719,1178449487330717696,-1.0,no_face,-1.0,Worldwide,http://pbs.twimg.com/profile_images/1054338193477251073/l9DycUxa.jpg
+720,1178449502992093184,21.973645629062958,m,0.03513775020837784,"Hanford, CA",http://pbs.twimg.com/profile_images/1206022628533661697/m70fcvBx.jpg
+721,1178449506968440840,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1170136407739949057/5nWt_tRT.jpg
+722,1178449554104094721,-1.0,no_face,-1.0,"Toronto, Canada",http://pbs.twimg.com/profile_images/458300495694536704/noB4RZTK.jpeg
+723,1178449559745437696,-1.0,no_face,-1.0,"Syracuse, New York",http://pbs.twimg.com/profile_images/1695879470/onetenth.JPG
+724,1178449587071266818,-1.0,no_face,-1.0,Toronto,http://pbs.twimg.com/profile_images/979219694669455360/oBevHX-k.jpg
+725,1178449591211040768,-1.0,no_face,-1.0,United States,http://pbs.twimg.com/profile_images/828740620101570565/Bx_7Cjjv.jpg
+726,1178449597644935168,-1.0,no_face,-1.0,"Mississippi, 🇺🇸",http://pbs.twimg.com/profile_images/1178439320648204289/pR0boEyX.jpg
+727,1178449601499521025,47.28829586086022,m,0.020674632862210274,,http://pbs.twimg.com/profile_images/1096438332228136960/_daSGEUB.jpg
+728,1178449606235103232,36.30217190143412,f,0.9238545894622803,"Washington, DC",http://pbs.twimg.com/profile_images/1177767170786418688/MndM4lNY.jpg
+729,1178449636719116288,43.973397527006455,m,0.1309230774641037,United States of America,http://pbs.twimg.com/profile_images/1195118068382363648/sDCYcB-p.jpg
+730,1178449648194768902,53.78771197018796,m,0.11087650805711746,"Portland, Oregon",http://pbs.twimg.com/profile_images/1168367656543518721/P1CW03sK.jpg
+731,1178449656679845888,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1158587029065629698/7Ka7N4WJ.jpg
+732,1178449666670768134,43.061432783211785,f,0.9865646362304688,"Toronto, Ontario",http://pbs.twimg.com/profile_images/1218378753463783425/k0axfuZ2.jpg
+733,1178449675558510594,24.99789706545198,m,0.12536291778087616,,http://pbs.twimg.com/profile_images/1156735958299156482/KaxKTdNJ.jpg
+734,1178449686606184448,-1.0,no_face,-1.0,Sydney,http://pbs.twimg.com/profile_images/473305026706669568/J8aVO5Cw.jpeg
+735,1178449698685779968,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1208085596322709504/EHi8mGlS.jpg
+736,1178449701563031552,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1185484955461140480/5vU29sbq.jpg
+737,1178449704364982273,-1.0,no_face,-1.0,"Islamabad, Pakistan",http://pbs.twimg.com/profile_images/1248317248206286848/OJStxA2J.jpg
+738,1178449743376240642,-1.0,no_face,-1.0,New York,http://pbs.twimg.com/profile_images/875407557862543362/aLb2pZIS.jpg
+739,1178449751823572992,-1.0,no_face,-1.0,Minnesota,http://pbs.twimg.com/profile_images/3512004930/2d6ad169e22a6e6ecc062b1a1bea4547.jpeg
+740,1178449754675564544,-1.0,no_face,-1.0,"Somewhere, USA",http://pbs.twimg.com/profile_images/1254442564972711939/jkuCeyAc.jpg
+741,1178449759008411653,-1.0,no_face,-1.0,"Toronto, ON Canada",http://pbs.twimg.com/profile_images/1146639384915173378/NrQg0o_e.jpg
+742,1178449762078429185,26.390145576053328,f,0.9789374470710754,London,http://pbs.twimg.com/profile_images/1006576811579326465/Dhio4E2a.jpg
+743,1178449773642289156,-1.0,no_face,-1.0,"Ohio, United States",http://pbs.twimg.com/profile_images/1212260192529928192/QImoAh3z.jpg
+744,1178449774464376834,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/906770255891931136/gIuTe17l.jpg
+745,1178449785910509568,30.196147807642774,f,0.950165331363678,Auckland,http://pbs.twimg.com/profile_images/865043285353537536/BI470iuH.jpg
+746,1178449790843183104,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/378800000401797652/6e1197a58117d2861078e3adf63043ac.png
+747,1178449797461577728,48.854415986312006,f,0.8559565544128418,Vietnam,http://pbs.twimg.com/profile_images/1064316663279972353/f2v1tIWE.jpg
+748,1178449799311495168,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/602813049/LSYValNoir-Head_94x94.png
+749,1178449813437706241,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1256665333328306176/Stbrp30v.jpg
+750,1178449815207849985,-1.0,no_face,-1.0,"Ontario, Canada",http://pbs.twimg.com/profile_images/1179529764081721344/gfvydFSP.jpg
+751,1178449841405476865,-1.0,no_face,-1.0,(She/Her),http://pbs.twimg.com/profile_images/1257458209247432704/lFQ_yv0c.jpg
+752,1178449862909726722,-1.0,no_face,-1.0,United States,http://pbs.twimg.com/profile_images/1240736885967855618/rfqUmhI8.jpg
+753,1178449884053168128,-1.0,no_face,-1.0,"Stuttgart, München, Birmingham",http://pbs.twimg.com/profile_images/794151535685070848/6lrDQr4h.jpg
+754,1178449926587445248,59.61848896679294,m,0.10914851725101471,"Calabasas, CA",http://pbs.twimg.com/profile_images/939896623835922432/yusLJsSQ.jpg
+755,1178449927820779520,48.40322386738535,f,0.9396889805793762,United States,http://pbs.twimg.com/profile_images/1048203935167729664/JxWlRBk5.jpg
+756,1178449968555839488,27.98835859441715,m,0.39886903762817383,Long Island NY,http://pbs.twimg.com/profile_images/441363923715887104/qOLtlvi8.jpeg
+757,1178449975740493824,58.15192744433807,m,0.0327250137925148,Perth,http://pbs.twimg.com/profile_images/1237533431799492608/FcxGud7m.jpg
+758,1178449983743221760,-1.0,no_face,-1.0,Calgary,http://pbs.twimg.com/profile_images/441264786597089280/ogKI-Q3m.jpeg
+759,1178450042815995904,-1.0,no_face,-1.0,Moscow,http://pbs.twimg.com/profile_images/738092304326660096/RWBF_e8d.jpg
+760,1178450044640362496,23.894537313190085,f,0.9213038682937622,Fiji,http://pbs.twimg.com/profile_images/558169265484738562/9qeKtB9o.jpeg
+761,1178450047953821696,-1.0,no_face,-1.0,"New South Wales, Australia",http://pbs.twimg.com/profile_images/1193844493193117698/0x6vEqm7.jpg
+762,1178450056841531393,-1.0,no_face,-1.0,flat earth,http://pbs.twimg.com/profile_images/659829338192261120/6gfhz-c5.jpg
+763,1178450084029222914,-1.0,no_face,-1.0,"Markham/Stouffville, Ontario",http://pbs.twimg.com/profile_images/1108150861727965186/VNrZwPlk.jpg
+764,1178450084524105728,30.09557327255527,m,0.017110776156187057,,http://pbs.twimg.com/profile_images/1207069958276030466/76hToPmc.jpg
+765,1178450092296228864,-1.0,no_face,-1.0,"Bellyofbeast, Mass., USSA",http://pbs.twimg.com/profile_images/3507616968/913028e898797a1252c7fac46be2b8d4.png
+766,1178450102467231744,-1.0,no_face,-1.0,"Flagstaff, AZ via MS(home)",http://pbs.twimg.com/profile_images/1201301713296084992/1vp7DMbW.jpg
+767,1178450117411721216,-1.0,no_face,-1.0,,http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+768,1178450129147183104,-1.0,no_face,-1.0,Thailand-Issan area,http://pbs.twimg.com/profile_images/2369522171/ibg77tp0s3dp0pizab7k.jpeg
+769,1178450140329205760,-1.0,no_face,-1.0,"Sydney, New South Wales",http://pbs.twimg.com/profile_images/1249926592136011777/_LwYHvMl.jpg
+770,1178450155093184512,-1.0,no_face,-1.0,"Melbourne, Victoria",http://pbs.twimg.com/profile_images/1027816527351898113/tAYUiGdf.jpg
+771,1178450157626691584,-1.0,no_face,-1.0,South Carolina,http://pbs.twimg.com/profile_images/844261680733437952/9qmlKY13.jpg
+772,1178450159904141312,42.662128820320504,m,0.07883258163928986,Great State of Texas,http://pbs.twimg.com/profile_images/1217051647215644673/RIQMkpvc.jpg
+773,1178450168020111362,-1.0,no_face,-1.0,"Warrensburg, MO",http://pbs.twimg.com/profile_images/1000806235648733184/oFelESPb.jpg
+774,1178450190476333058,-1.0,no_face,-1.0,"Edmonton, Alberta",http://pbs.twimg.com/profile_images/1142859448517423104/3TeZ-y2O.jpg
+775,1178450201708658688,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1165540479980539904/WdirwDbH.jpg
+776,1178450211850641413,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/945442828917854209/wLMMHmep.jpg
+777,1178450225024753664,44.62866596602271,m,0.020708117634058,"Menlo Park, CA",http://pbs.twimg.com/profile_images/848946084726546432/I5Wu_Eye.jpg
+778,1178450229269385217,-1.0,no_face,-1.0,Alberta,http://pbs.twimg.com/profile_images/1223365751312023553/ZM1VkOMs.jpg
+779,1178450229823074304,-1.0,no_face,-1.0,"Denver, CO",http://pbs.twimg.com/profile_images/1258667544807968768/GtagOFdy.jpg
+780,1178450238312304641,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/923718519044300801/6DkXEs_2.jpg
+781,1178450240451600385,65.62865886172949,m,0.08431032299995422,"CD 25 Texas, USA",http://pbs.twimg.com/profile_images/1205952825282514944/M3vejfZ3.jpg
+782,1178450240648732672,58.8669480110666,f,0.9949790835380554,"Lantzville, British Columbia",http://pbs.twimg.com/profile_images/1186071253737541634/9VyBWley.jpg
+783,1178450290145660929,35.39621206396032,m,0.017116229981184006,United Kingdom,http://pbs.twimg.com/profile_images/1126540857291755520/rj9kRWI2.jpg
+784,1178450291630493696,52.48622844098065,m,0.021859081462025642,http://www.AttackStateRed.com,http://pbs.twimg.com/profile_images/1092159365631655939/oVZ1TAqW.jpg
+785,1178450301621276677,-1.0,no_face,-1.0,Pure Michigan,http://pbs.twimg.com/profile_images/967188047727964160/AxCQw00w.jpg
+786,1178450308302868480,-1.0,no_face,-1.0,"Port Orange,Fl.",http://pbs.twimg.com/profile_images/1431727564/1910_Omega_art.jpg
+787,1178450325600161793,-1.0,no_face,-1.0,"Fingal, Ireland",http://pbs.twimg.com/profile_images/1198812095665582081/o-wyu6Q7.jpg
+788,1178450352552718341,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1249584340562063360/63ge7b2N.jpg
+789,1178450357992620032,29.292870840769638,f,0.9739096164703369,"Los Angeles, CA",http://pbs.twimg.com/profile_images/1202789589523427328/g0NynhWc.jpg
+790,1178450410673180672,-1.0,no_face,-1.0,"Toronto, Canada",http://pbs.twimg.com/profile_images/541639696195923968/ZJ0VhD2O.jpeg
+791,1178450425319743489,-1.0,no_face,-1.0,"Glasgow, Scotland",http://pbs.twimg.com/profile_images/1146483827356966913/bNZjmpJs.jpg
+792,1178450427219763200,36.69884081283817,m,0.475178062915802,,http://pbs.twimg.com/profile_images/1245115734986014720/c_wSKNo3.jpg
+793,1178450428683526146,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/999753389624905728/j-hdOG4Z.jpg
+794,1178450439467081728,-1.0,no_face,-1.0,"Virginia, USA",http://pbs.twimg.com/profile_images/1244723749406064640/rYpmnaD1.jpg
+795,1178450450439213056,-1.0,no_face,-1.0,"Melbourne, Australia",http://pbs.twimg.com/profile_images/1012540222486216704/BPaW7PjC.jpg
+796,1178450458022699009,45.263637492226735,m,0.027734775096178055,,http://pbs.twimg.com/profile_images/1157394207591546885/VQhp3m0f.jpg
+797,1178450468021964800,-1.0,no_face,-1.0,Bohemia New York,http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+798,1178450468391067648,30.175861355082816,f,0.9792130589485168,,http://pbs.twimg.com/profile_images/1035525174001459201/VQ9CzbGR.jpg
+799,1178450500041224194,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/919225018877440000/9HsemW-T.jpg
+800,1178448137226199040,-1.0,no_face,-1.0,"California, USA",http://pbs.twimg.com/profile_images/1145759108621950978/iswiYVV4.jpg
+801,1178448159195856896,38.75946984386974,m,0.19478707015514374,Sydney,http://pbs.twimg.com/profile_images/1202802062934720512/fS0yagnc.jpg
+802,1178448163604226048,51.1526995162576,m,0.0399111770093441,"Calgary, AB",http://pbs.twimg.com/profile_images/1232088856423325696/krb0jIfv.jpg
+803,1178448178921664514,-1.0,no_face,-1.0,New Zealand,http://pbs.twimg.com/profile_images/1222817686880583680/8-1lsBGf.jpg
+804,1178448181211869186,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1152188268043223042/b1nQ_Qbw.jpg
+805,1178448181920706560,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/682280308398501888/D8J_afbW.jpg
+806,1178448194688167937,31.16814483773487,m,0.06569670140743256,,http://pbs.twimg.com/profile_images/1158043491806732288/9JY2UFqV.jpg
+807,1178448202141294592,-1.0,no_face,-1.0,"Los Angeles, CA",http://pbs.twimg.com/profile_images/1249052499941552128/INJ40i9T.jpg
+808,1178448261910290432,37.884285245323554,m,0.37896573543548584,"Texas, USA",http://pbs.twimg.com/profile_images/954589061821452288/D3v2zM_h.jpg
+809,1178448266473570305,58.15192744433807,m,0.0327250137925148,Perth,http://pbs.twimg.com/profile_images/1237533431799492608/FcxGud7m.jpg
+810,1178448268570710016,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/920060863213551616/hzoVsNQU.jpg
+811,1178448275571187714,-1.0,no_face,-1.0,Mostly in the US,http://pbs.twimg.com/profile_images/629995860206686208/ydhva3IO.jpg
+812,1178448284391809024,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1219371196644458502/WfQR-fwv.jpg
+813,1178448297587032065,-1.0,no_face,-1.0,"Toronto, Ontario",http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+814,1178448321213452288,58.31592285568331,m,0.11040766537189484,NE Thailand,http://pbs.twimg.com/profile_images/666371797508472832/iDegxSkH.jpg
+815,1178448345934761985,28.924082303248724,f,0.9273281693458557,Canada,http://pbs.twimg.com/profile_images/1256854693449551873/dT2oA0aR.jpg
+816,1178448353908154371,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1181098940231569413/AhHcMxYK.jpg
+817,1178448366688186368,-1.0,no_face,-1.0,NO r WAY,http://pbs.twimg.com/profile_images/2043253221/image.jpg
+818,1178448374632194048,-1.0,no_face,-1.0,"Dublin City, Ireland",http://pbs.twimg.com/profile_images/1210978052420907008/SzHGGqKz.jpg
+819,1178448387290669057,40.56146728805925,m,0.017220569774508476,"Austin, TX",http://pbs.twimg.com/profile_images/1115991207098880009/1FhvatZj.jpg
+820,1178448418273759232,-1.0,no_face,-1.0,kwa ufahamu kuimba wimbo wa NU,http://pbs.twimg.com/profile_images/1258116189198278657/TQrebtHq.jpg
+821,1178448421046255616,-1.0,no_face,-1.0,Brisbane,http://pbs.twimg.com/profile_images/1209981918780911616/PlJ1WHra.jpg
+822,1178448433377611776,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1256292439419125765/3g0gWKlZ.jpg
+823,1178448437777289216,-1.0,no_face,-1.0,Unceded Coast Salish territory,http://pbs.twimg.com/profile_images/1233868529851457536/lvr4YO0a.jpg
+824,1178448455842357254,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1258141779867492353/odXfioB-.jpg
+825,1178448456207257603,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1191320558786490373/qAFkWawB.jpg
+826,1178448468509167616,31.582847411948023,m,0.24652758240699768,"ڈیرہ غازی خان, پاکستان🇵🇰🇵🇰",http://pbs.twimg.com/profile_images/1194268383895859200/7R7iaoOU.jpg
+827,1178448468655984640,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1174342274400096256/ObDEJk4M.jpg
+828,1178448472263053312,-1.0,no_face,-1.0,Kansas,http://pbs.twimg.com/profile_images/688452100280324096/oMJx9tl6.jpg
+829,1178448483180638208,-1.0,no_face,-1.0,Australia,http://pbs.twimg.com/profile_images/1113257058256674821/4KUL6Saf.png
+830,1178448527057395712,-1.0,no_face,-1.0,Tennessee ,http://pbs.twimg.com/profile_images/443563177997922304/OZc5aGZj.jpeg
+831,1178448555624804352,41.762364017802156,m,0.029620390385389328,"Madison, WI",http://pbs.twimg.com/profile_images/643861527532077058/pIofjEB2.jpg
+832,1178448563585466368,-1.0,no_face,-1.0, #Australia #Oceania,http://pbs.twimg.com/profile_images/1220137265369776130/9ALpVHzz.jpg
+833,1178448578529955846,-1.0,no_face,-1.0,YOW,http://pbs.twimg.com/profile_images/1109796647653904384/aFF3N6t-.png
+834,1178448607722143744,-1.0,no_face,-1.0,Chennai ,http://pbs.twimg.com/profile_images/1170781564138999808/4rxR0tPu.jpg
+835,1178448610150801410,-1.0,no_face,-1.0,"Q, USA...",http://pbs.twimg.com/profile_images/977037915518918657/KBb0o44E.jpg
+836,1178448618476298240,-1.0,no_face,-1.0,Sydney,http://pbs.twimg.com/profile_images/865053642667184128/RsR8FJsu.jpg
+837,1178448622490226689,40.60065642178233,m,0.028970513492822647,Canada,http://pbs.twimg.com/profile_images/733443446556364800/QFbURrnd.jpg
+838,1178448647421337601,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1248271356199702529/2-ycNESK.jpg
+839,1178448657701466112,42.76316880143531,m,0.057117052376270294,Planet Earth,http://pbs.twimg.com/profile_images/1247618432494759936/4D6r_cuJ.jpg
+840,1178448660184653825,-1.0,no_face,-1.0,"Burlington, VT",http://pbs.twimg.com/profile_images/870436886216441857/5Fum19d4.jpg
+841,1178448677955915776,-1.0,no_face,-1.0,Toronto,http://pbs.twimg.com/profile_images/1009235980820275201/ATizLlK4.jpg
+842,1178448690647683072,39.46813037414837,m,0.005774661432951689,Victoria,http://pbs.twimg.com/profile_images/1214024641729089536/FE7g1M77.jpg
+843,1178448692954587137,-1.0,no_face,-1.0,"Nevada, USA",http://pbs.twimg.com/profile_images/568125931521204224/s_-8VC_D.jpeg
+844,1178448693638230016,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/829434911677313025/rU5aTu4F.jpg
+845,1178448702329020418,-1.0,no_face,-1.0,,http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+846,1178448712282132480,-1.0,no_face,-1.0,"Missouri, USA",http://pbs.twimg.com/profile_images/1176969475528286210/K3Y0cssH.jpg
+847,1178448717717766144,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/683028490023641088/NMl13myR.jpg
+848,1178448720834097152,-1.0,no_face,-1.0, australia,http://pbs.twimg.com/profile_images/1248584135901233152/XNfR9I6i.jpg
+849,1178448723988238337,33.045171911799116,f,0.8251522183418274,Boonwurrung/Wurundjeri land,http://pbs.twimg.com/profile_images/1255770666353127424/8fI37D9h.jpg
+850,1178448728111403014,-1.0,no_face,-1.0,Newcastle upon Tyne,http://pbs.twimg.com/profile_images/1158283833197977600/qUjOwNIc.jpg
+851,1178448741453447179,-1.0,no_face,-1.0,,http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+852,1178448754015375360,-1.0,no_face,-1.0,earth,http://pbs.twimg.com/profile_images/621398342895927296/xiVOXLg6.jpg
+853,1178448776907780097,20.7116402383096,f,0.9623982906341553,"Houston, TX",http://pbs.twimg.com/profile_images/1235771863814615041/Sk9NfqlH.jpg
+854,1178448796113670145,-1.0,no_face,-1.0,"Montréal, Québec",http://pbs.twimg.com/profile_images/837791346249256962/krkFPefm.jpg
+855,1178448813301944321,19.04383114526945,f,0.993320107460022,"Renfrew, Ontario",http://pbs.twimg.com/profile_images/1221524073844441090/KHlJijlV.jpg
+856,1178448827126358017,-1.0,no_face,-1.0,Everywhere,http://pbs.twimg.com/profile_images/1241578038116130819/aNB1WC3n.jpg
+857,1178448827402969088,49.15006756398361,m,0.2678419053554535,New Delhi,http://pbs.twimg.com/profile_images/1098138680743493633/jGMC-0Zq.png
+858,1178448842959798272,33.157909103502334,m,0.09520243853330612,Trinidad,http://pbs.twimg.com/profile_images/1198117240488546304/Q2kXNC5w.jpg
+859,1178448858268884992,-1.0,no_face,-1.0,"Los Angeles, CA",http://pbs.twimg.com/profile_images/1192035798985523200/i2yqPLCJ.jpg
+860,1178448884105826304,-1.0,no_face,-1.0,🇨🇦World Champion Vancouver,http://pbs.twimg.com/profile_images/2533917036/image.jpg
+861,1178448890556755969,-1.0,no_face,-1.0,Ireland,http://pbs.twimg.com/profile_images/1188399269688020999/nx9k3O9U.jpg
+862,1178448892259717122,41.17847580133093,m,0.0474584735929966,"Cardiff, Wales",http://pbs.twimg.com/profile_images/1093260970250698760/_7yXWIwS.jpg
+863,1178448898341376002,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1267108613/Three_Crosses-885x829.jpg
+864,1178448898546946048,-1.0,no_face,-1.0,"San Francisco, CA",http://pbs.twimg.com/profile_images/682667349552451584/cGaY2mR6.png
+865,1178448908281896960,-1.0,no_face,-1.0,NY,http://pbs.twimg.com/profile_images/1040577230538240000/rhIDWPQE.jpg
+866,1178448928959815680,-1.0,no_face,-1.0,UK,http://pbs.twimg.com/profile_images/453494527068626944/QJoh2SSU.jpeg
+867,1178448941865672710,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1114714328584916992/YBT6P6eu.jpg
+868,1178448945443479552,27.591231740131548,m,0.040777549147605896,"Wolcott, CT------Storrs, CT",http://pbs.twimg.com/profile_images/874165978560679936/SGEEYPdC.jpg
+869,1178448960559579136,37.36600608856497,m,0.028875602409243584,日本,http://pbs.twimg.com/profile_images/1195725337000198149/vT6dlIrw.jpg
+870,1178448966041530369,-1.0,no_face,-1.0,"Northern, CA",http://pbs.twimg.com/profile_images/1252730214393581568/zbS9O3NY.jpg
+871,1178448982508527618,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/973383347731927041/ABwrzDqj.jpg
+872,1178448987420069889,37.85408459731843,m,0.40944620966911316,Ireland,http://pbs.twimg.com/profile_images/1255666228351336449/tuEblL3o.jpg
+873,1178448988594409478,-1.0,no_face,-1.0,Blue in a Red State,http://pbs.twimg.com/profile_images/1121570571869990912/fvvJa-bN.jpg
+874,1178448992964874240,-1.0,no_face,-1.0,On a US/Canadian border,http://pbs.twimg.com/profile_images/1229425239353745408/lF-sTVip.jpg
+875,1178448996634742784,20.496624885012352,m,0.09196603298187256,HOME with BTS,http://pbs.twimg.com/profile_images/1257173125277429762/IFtMSYNY.jpg
+876,1178449007074394112,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/683028490023641088/NMl13myR.jpg
+877,1178449008710176768,-1.0,no_face,-1.0,blue marble,http://pbs.twimg.com/profile_images/938495643592601601/gOmMa-dc.jpg
+878,1178449032559173633,-1.0,no_face,-1.0,Switzerland / Suisse,http://pbs.twimg.com/profile_images/1054728311212048385/Nyjp_9us.jpg
+879,1178449033037152256,48.98769105284373,m,0.050737690180540085,,http://pbs.twimg.com/profile_images/1185959650413309952/TCv1Sn8N.jpg
+880,1178449069057818625,-1.0,no_face,-1.0,"Osaka, Japan",http://pbs.twimg.com/profile_images/1110057848241713154/5J3D_tXi.jpg
+881,1178449070618218496,-1.0,no_face,-1.0,"Ontario, Canada",http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+882,1178449082454441984,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1112014351639023617/rQ2wCU-N.jpg
+883,1178449088800591873,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1122956054453805056/3hndoLIV.jpg
+884,1178449099391209472,33.89210276990707,f,0.7372839450836182,Middle of AMERICA,http://pbs.twimg.com/profile_images/632903140753338373/spfPtEPJ.jpg
+885,1178449111781117953,-1.0,no_face,-1.0,,http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+886,1178449114654281731,-1.0,no_face,-1.0,"New York, USA",http://pbs.twimg.com/profile_images/640522168246255616/vwsQNm-R.png
+887,1178449126649925632,-1.0,no_face,-1.0,127.0.0.1,http://pbs.twimg.com/profile_images/1175251242362294272/VhuhR_Ja.png
+888,1178449147222884353,33.203603809231936,f,0.956992506980896,,http://pbs.twimg.com/profile_images/957118235047964673/Ui2bCqHJ.jpg
+889,1178449153292062720,-1.0,no_face,-1.0,Ngunnawal Country,http://pbs.twimg.com/profile_images/1256905419777118209/JscEB9dD.jpg
+890,1178449159185035265,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/683028490023641088/NMl13myR.jpg
+891,1178449188943749120,-1.0,no_face,-1.0,"New Orleans, LA",http://pbs.twimg.com/profile_images/1236318124133285890/7S_ZNJjw.jpg
+892,1178449213367160832,-1.0,no_face,-1.0,I ett hus på ett berg i skogen,http://pbs.twimg.com/profile_images/821392370855976960/chMlYmHQ.jpg
+893,1178449229179695104,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1192056792580313088/MQ_MIejo.jpg
+894,1178449229590732800,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/775805164720689152/_6PLheUc.jpg
+895,1178449243402637313,-1.0,no_face,-1.0,Manitoba,http://pbs.twimg.com/profile_images/1176470865246134272/VjU8IqcK.jpg
+896,1178449261962379265,-1.0,no_face,-1.0,Karachi,http://pbs.twimg.com/profile_images/1246752758474199040/pCjH35XJ.jpg
+897,1178449275711361025,28.117957324226154,f,0.8643311858177185,Liverpool 9,http://pbs.twimg.com/profile_images/1118204103119785984/GL3VilES.jpg
+898,1178449276160135169,-1.0,no_face,-1.0,"Maryland, USA",http://pbs.twimg.com/profile_images/1128901177561763840/vZzEFDS3.jpg
+899,1178449286943531008,-1.0,no_face,-1.0,United States,http://pbs.twimg.com/profile_images/1116174502407237632/O9sOe4c-.jpg
+900,1178446868260384769,40.81383318756161,f,0.9211915731430054,"Vancouver, British Columbia",http://pbs.twimg.com/profile_images/1219435697376919560/bT_f-hkY.png
+901,1178446874405199872,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1137548897600114689/mLu0qze8.jpg
+902,1178446874669248512,22.251161748771665,f,0.9826420545578003,"Vancouver, British Columbia",http://pbs.twimg.com/profile_images/1211950093621874689/zoFvpYqA.jpg
+903,1178446887810162688,51.05126529222025,m,0.04593385383486748,,http://pbs.twimg.com/profile_images/1020325420397408258/gv5fytGn.jpg
+904,1178446898295787520,-1.0,no_face,-1.0,USA,http://pbs.twimg.com/profile_images/950767775932280833/njbUR2HD.jpg
+905,1178446904201535491,-1.0,no_face,-1.0,"Chicago, IL",http://pbs.twimg.com/profile_images/1149463437476605952/ybykt4zi.jpg
+906,1178446919410110464,-1.0,no_face,-1.0,The land of 1million frozen snowflakes,http://pbs.twimg.com/profile_images/1252583725810028546/UZVj6Scb.jpg
+907,1178446928117473288,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/2375429495/n6cm58qi4ihpzusgmv2l.jpeg
+908,1178446929526759426,42.091699951532064,f,0.6310930848121643,,http://pbs.twimg.com/profile_images/560919336236232704/q7lJ-umx.jpeg
+909,1178446936262750214,-1.0,no_face,-1.0,Brooklyn N.Y.,http://pbs.twimg.com/profile_images/1107819905536192513/NtTa271J.jpg
+910,1178446939324653569,-1.0,no_face,-1.0,"Ontario, Canada",http://pbs.twimg.com/profile_images/754856810234966016/6EzP5MzU.jpg
+911,1178446956550479873,30.405628575324954,m,0.37403661012649536,Australia,http://pbs.twimg.com/profile_images/764626168716726272/Zyv4SAbh.jpg
+912,1178446958714851329,-1.0,no_face,-1.0,"Texas, USA",http://pbs.twimg.com/profile_images/1123374907658776576/Qh4WxVja.png
+913,1178446982303473670,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1145615025412816896/lXXuuILP.jpg
+914,1178446988922281985,-1.0,no_face,-1.0,Chicago,http://pbs.twimg.com/profile_images/1225608813459447810/T1yA2VnF.jpg
+915,1178446991681961984,-1.0,no_face,-1.0,"Edmonton, AB, Canada",http://pbs.twimg.com/profile_images/1237097628115976192/t_PwuVmO.jpg
+916,1178447013035294723,-1.0,no_face,-1.0,"Warren, New Jersey",http://pbs.twimg.com/profile_images/792465695032369153/1R0zCk0l.jpg
+917,1178447051517919232,-1.0,no_face,-1.0,"Sydney, Australia",http://pbs.twimg.com/profile_images/638561151446454272/_34TfQss.png
+918,1178447062653902850,-1.0,no_face,-1.0,Toronto,http://pbs.twimg.com/profile_images/439099868607299584/MoblnbT9.jpeg
+919,1178447078214778881,48.01141299136543,m,0.024188468232750893,,http://pbs.twimg.com/profile_images/1252064560091103232/V7qV7bcY.jpg
+920,1178447085508673536,-1.0,no_face,-1.0,Boston Area,http://pbs.twimg.com/profile_images/1210332305623060480/E5s9sPE9.jpg
+921,1178447109919518720,50.10241138236597,m,0.02773101255297661,"Bordeaux, France Ayrshire Scot",http://pbs.twimg.com/profile_images/1240386910293549057/zq8Cqxcu.jpg
+922,1178447125379608576,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1156750991842148352/zne0N-c2.jpg
+923,1178447133512519686,41.79651073456989,m,0.045276109129190445,,http://pbs.twimg.com/profile_images/1220093586072621062/NUihSOMD.jpg
+924,1178447150860001280,-1.0,no_face,-1.0,Australia,http://pbs.twimg.com/profile_images/1159093475662393345/WuPYX7-D.jpg
+925,1178447153779228675,55.66957891940183,m,0.08764439076185226,Up around the bend,http://pbs.twimg.com/profile_images/1251253045511376902/ebSRB95X.jpg
+926,1178447159928266753,46.108640661258505,m,0.028045903891324997,"Stockholm, Sverige",http://pbs.twimg.com/profile_images/483092271/PortrattSkjortaStor.jpg
+927,1178447168929173504,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1226493710772424705/-qsxTG-b.jpg
+928,1178447187916857345,-1.0,no_face,-1.0,"Houston, TX",http://pbs.twimg.com/profile_images/2821142910/ae258f5702665614207b98dc092ce99b.jpeg
+929,1178447191683293184,-1.0,no_face,-1.0, ,http://pbs.twimg.com/profile_images/1179900112673353728/Am8XfO37.jpg
+930,1178447197446316033,-1.0,no_face,-1.0,NO1 Somewhere Villa ,http://pbs.twimg.com/profile_images/1179532047628607489/JJvKAxwz.jpg
+931,1178447207059640327,-1.0,no_face,-1.0,"Iowa, USA",http://pbs.twimg.com/profile_images/1080239325630078976/2CIZC-G9.jpg
+932,1178447211413360641,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1006422585993809920/gyJgFja-.jpg
+933,1178447245039063040,19.88514757673147,m,0.03315308690071106,DC & NYC,http://pbs.twimg.com/profile_images/1244089314478297088/OHGfEv-m.jpg
+934,1178447246792286208,-1.0,no_face,-1.0,"Oklahoma City, OK",http://pbs.twimg.com/profile_images/448174643971518464/0IcB5U8R.jpeg
+935,1178447261367521280,-1.0,no_face,-1.0,FEMA REGION 6,http://pbs.twimg.com/profile_images/1249086055657201670/aXjqYaum.jpg
+936,1178447294040956928,-1.0,no_face,-1.0,"Sydney, New South Wales",http://pbs.twimg.com/profile_images/3681040080/9700a5bb2b7ff34c053014529f2b8fef.jpeg
+937,1178447313095671814,-1.0,no_face,-1.0,Far North Coast NSW,http://pbs.twimg.com/profile_images/1226623796079030272/taWBjvhl.jpg
+938,1178447326907699200,30.87533732421616,f,0.8696792125701904,"New York, NY",http://pbs.twimg.com/profile_images/1133061799857807362/Oq4J0E6O.jpg
+939,1178447337418579968,-1.0,no_face,-1.0,paducak ky,http://pbs.twimg.com/profile_images/378800000766180436/5d9adaaaac1d7d78e02524a5bd9c59be.jpeg
+940,1178447361904910336,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/875635548425134082/MVMVyw64.jpg
+941,1178447364970799104,-1.0,no_face,-1.0,"Fredericton, New Brunswick",http://pbs.twimg.com/profile_images/1129473023659192332/YxGNb7tc.png
+942,1178447419471749120,-1.0,no_face,-1.0,"Oklahoma, where the wind...",http://pbs.twimg.com/profile_images/1255968979149115394/B-1hkbJD.jpg
+943,1178447421749088256,-1.0,no_face,-1.0,"Edmonton, AB, Canada",http://pbs.twimg.com/profile_images/1237097628115976192/t_PwuVmO.jpg
+944,1178447436299341824,-1.0,no_face,-1.0,,http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+945,1178447437620367360,43.402017017146136,m,0.010305366478860378,,http://pbs.twimg.com/profile_images/1228160442008133634/Bjm4VL-0.jpg
+946,1178447470734581762,-1.0,no_face,-1.0,"Islamabad, Pakistan",http://pbs.twimg.com/profile_images/965156134536523776/6NdhvhAb.jpg
+947,1178447473876099073,37.943723430104,f,0.7900977730751038,Hellmouth,http://pbs.twimg.com/profile_images/1245452535558737925/FDm0_rHd.jpg
+948,1178447483422334976,-1.0,no_face,-1.0,Western Massachusetts,http://pbs.twimg.com/profile_images/1026193542438248448/MtDk9Rws.jpg
+949,1178447496785231872,-1.0,no_face,-1.0,"Pakenham, Victora, Australia",http://pbs.twimg.com/profile_images/1013244482282668032/BO0D4lYb.jpg
+950,1178447534731120640,26.66465806858787,f,0.9323030114173889,"Edmonton, AB, Canada",http://pbs.twimg.com/profile_images/1253323391626444806/EhwGmHOK.jpg
+951,1178447538971656193,45.09149062852339,m,0.05958394706249237,"Amsterdam, North Holland",http://pbs.twimg.com/profile_images/687674703889182720/3i0iJ5_E.jpg
+952,1178447549046427649,-1.0,no_face,-1.0,Praying Mantis Hope,http://pbs.twimg.com/profile_images/614551635369590784/iNbET0gF.jpg
+953,1178447622727553024,36.571629931791904,m,0.15264762938022614,Neo Tokyo,http://pbs.twimg.com/profile_images/1229394361785315330/5vLnuOFt.jpg
+954,1178447635142844420,-1.0,no_face,-1.0,NO r WAY,http://pbs.twimg.com/profile_images/2043253221/image.jpg
+955,1178447635436507138,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1731335495/SOL.png
+956,1178447639160864768,-1.0,no_face,-1.0,Saskatoon Sk. Canada,http://pbs.twimg.com/profile_images/1062522461520969728/BSSzY26Q.jpg
+957,1178447640285106178,-1.0,no_face,-1.0,"Houston,Tx",http://pbs.twimg.com/profile_images/1105458708769894401/A74hBHh3.jpg
+958,1178447663068536833,-1.0,no_face,-1.0,New York,http://pbs.twimg.com/profile_images/1197018857594118144/IFyH-bDU.jpg
+959,1178447664184201217,30.79286201015202,m,0.37058010697364807,"he/him, bi 🏳️‍🌈",http://pbs.twimg.com/profile_images/1252332614670782464/yqsc6ux_.jpg
+960,1178447674011459584,30.375095110750408,f,0.5945426821708679,"Atlanta, GA",http://pbs.twimg.com/profile_images/1253533915173789696/c-Zu1t48.jpg
+961,1178447677903822848,-1.0,no_face,-1.0,Truth  🇬🇧,http://pbs.twimg.com/profile_images/1200568111969308672/LjFNqXJ0.jpg
+962,1178447680093249536,-1.0,no_face,-1.0,"Marietta, Georgia",http://pbs.twimg.com/profile_images/429649511930429440/pkZ-wfI6.jpeg
+963,1178447697579261953,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1176249309366542336/8vt3GeOA.jpg
+964,1178447701937025025,20.074959410732845,f,0.8871052861213684,,http://pbs.twimg.com/profile_images/1250697449707941888/vE4DBjnb.jpg
+965,1178447712347291648,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1158587029065629698/7Ka7N4WJ.jpg
+966,1178447727916539905,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/2603950851/alison_1_md.gif
+967,1178447761412366337,-1.0,no_face,-1.0,"North Richland Hills, TX",http://pbs.twimg.com/profile_images/1246094309893517314/tXs7-2Dm.jpg
+968,1178447763748671495,-1.0,no_face,-1.0,,http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+969,1178447766038540288,17.967101644317154,f,0.8766447901725769,here,http://pbs.twimg.com/profile_images/1254376010646085633/p8us2NpY.jpg
+970,1178447772791529478,-1.0,no_face,-1.0,,http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+971,1178447794023145473,-1.0,no_face,-1.0,🌎,http://pbs.twimg.com/profile_images/1246086385301426178/5lLEQNno.jpg
+972,1178447800746565632,40.68614242269018,m,0.004474263172596693,Miami / Fort Lauderdale,http://pbs.twimg.com/profile_images/750753652168589312/GN2B5xxG.jpg
+973,1178447805125296128,-1.0,no_face,-1.0,"Vancouver, British Columbia",http://pbs.twimg.com/profile_images/1230393727476097024/eDPSqjHh.jpg
+974,1178447806819979264,-1.0,no_face,-1.0,"Buenos Aires, Argentina",http://pbs.twimg.com/profile_images/927570246185226241/jBglSoiQ.jpg
+975,1178447809663705089,-1.0,no_face,-1.0,,http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+976,1178447811555270656,-1.0,no_face,-1.0,Refugee Campus: Metal Lofts ,http://pbs.twimg.com/profile_images/1258209706746626048/Mw0qLq_p.jpg
+977,1178447818643689472,-1.0,no_face,-1.0,"New York, NY",http://pbs.twimg.com/profile_images/1226890596280885248/qdLQ8M7i.png
+978,1178447844694355969,-1.0,no_face,-1.0,Madras,http://pbs.twimg.com/profile_images/1253332348680105984/-eNviQkC.jpg
+979,1178447845650845696,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1116427419131547648/xA8pe8nb.jpg
+980,1178447879876141057,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1230231843540090880/xfK7CfdG.jpg
+981,1178447911102885888,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1204237476233195520/QK5_ZCys.jpg
+982,1178447965104623620,-1.0,no_face,-1.0,United States,http://pbs.twimg.com/profile_images/1253529439209750528/N4rUebWm.jpg
+983,1178447970896957440,-1.0,no_face,-1.0,"Montréal, Québec",http://pbs.twimg.com/profile_images/1178499661704957953/MfR1Sta1.jpg
+984,1178447972230713344,39.59930468902235,m,0.01081710122525692,"A SoCiEtY, US of Anti-CCP",http://pbs.twimg.com/profile_images/1230653297855471617/5-Jv5pCb.jpg
+985,1178447976496324609,-1.0,no_face,-1.0,United States,http://pbs.twimg.com/profile_images/1187733525904187393/F7ekC2s8.jpg
+986,1178447987049000960,36.471697922446765,m,0.4880738854408264,"Epping, Melbourne, Australia",http://pbs.twimg.com/profile_images/424436021644640256/HVclYNnC.jpeg
+987,1178448018510450688,-1.0,no_face,-1.0,"Cork, Ireland",http://pbs.twimg.com/profile_images/1094355075336683520/DTI5aZ-J.jpg
+988,1178448023300362240,-1.0,no_face,-1.0,NZ,http://pbs.twimg.com/profile_images/1258269640926457856/KgwoUvtz.jpg
+989,1178448029164032000,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1080394734902816771/WsobtUY1.jpg
+990,1178448033937268736,-1.0,no_face,-1.0,"DECEPTICON CITY, U.S.A",http://pbs.twimg.com/profile_images/1248327849620242432/gWuYYtP1.jpg
+991,1178448052526485504,40.14936667834991,m,0.4491729438304901,,http://pbs.twimg.com/profile_images/1124515653296148481/CEHYtESG.jpg
+992,1178448060915109888,-1.0,no_face,-1.0,"Cincinnati, OH",http://pbs.twimg.com/profile_images/1112462269580001280/jbhE0IJ4.jpg
+993,1178448073959194624,-1.0,no_face,-1.0,,http://pbs.twimg.com/profile_images/1250075960910594048/oaGbZRgK.jpg
+994,1178448079013462017,45.76246247734889,m,0.04500768333673477,Rochester.N.Y. metro,http://pbs.twimg.com/profile_images/883084865155059712/1I_U8Tey.jpg
+995,1178448083429904384,31.6116001547598,f,0.8823964595794678,California,http://pbs.twimg.com/profile_images/1003441115242983424/3XL7OTO3.jpg
+996,1178448107694120966,12.049379243729163,m,0.4072493314743042,"Halifax, Nova Scotia",http://pbs.twimg.com/profile_images/908459762177716224/uWrwT5SG.jpg
+997,1178448108541210624,-1.0,no_face,-1.0,,http://abs.twimg.com/sticky/default_profile_images/default_profile.png
+998,1178448116896260098,-1.0,no_face,-1.0,"Redfern, Sydney",http://pbs.twimg.com/profile_images/1251297131450609666/uLxP4yzG.jpg
+999,1178448130888458240,-1.0,no_face,-1.0,BS in tulog,http://pbs.twimg.com/profile_images/1257654461217964032/NwN01bT8.jpg
