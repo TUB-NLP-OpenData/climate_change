@@ -6,21 +6,16 @@ import pandas as pd
 from pyagender import PyAgender
 
 
-path_raw_data = "../../data/Processed/tweets.jsonl"
+path_raw_data = "../../data/for_modeling/data.json"
 path_img_data = "../../data/Raw/profile_imgs/"
-path_out_csv = "../../data/Processed/age_gender.csv"
+path_out_csv = "../../data/for_modeling/data_age_gender.json"
 
 agender = PyAgender()
+#raw_data = [json.loads(line) for line in open(path_raw_data, 'r')]
+#df = pd.DataFrame(columns=["id", "age", "gender", "gender_predicted_value", "location", "profile_img_url"])
 
-raw_data = [json.loads(line) for line in open(path_raw_data, 'r')]
-
-columns = ["id", "age", "gender", "gender_predicted_value", "location", "profile_img_url"]
-
-
-df = pd.DataFrame(columns=columns)
-
-
-for user in raw_data:
+df=[]
+for user in pd.read_json(path_raw_data,  lines=True).iterrows():
     data = {}
     data["id"] = user["id_str"]
     data["profile_img_url"] = user["user"]["profile_image_url"].replace("_normal", "")
@@ -48,6 +43,7 @@ for user in raw_data:
         data["gender_predicted_value"] = -1.0
         data["gender"] = "no_face"
 
-    df = df.append(data, ignore_index=True)
+    df.append(data)
+pd.DataFrame(df).reset_index().to_json(path_out_csv)
 
-df.to_csv(path_out_csv)
+#df.to_csv(path_out_csv)
