@@ -1,2 +1,5 @@
 GetOldTweets3
 pandas
+tensorflow==1.13.1
+keras==2.2.4
+numpy==1.18.4
