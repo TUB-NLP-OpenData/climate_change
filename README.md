@@ -17,9 +17,46 @@ In short, the student will dive deep into DS in order to understand the people's
 * Attitudes to science and risk?
   * Sceptics, Mainstream, Radicals
   
+* local 
+  
 ## References
 * Representativeness of Abortion Legislation Debate on Twitter: A Case Study in Argentina and Chile. https://dl.acm.org/doi/fullHtml/10.1145/3366424.3383561
 * Who Tweets? Deriving the Demographic Characteristics of Age, Occupation and Social Class from Twitter User Meta-Data - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0115545
 * Beyond ‘deniers’ and ‘believers’: Towards a map of the politics of climate change.
 * Detecting Climate Change Deniers on Twitter Using a Deep Neural Network
+
+
+* https://github.com/gravesa333/Classifying_Climate_Change_Tweets
+* https://towardsdatascience.com/classifying-climate-change-tweets-8245450a5e96
+
+
+
+## workflow
+
+### 1. download data e.g. 50K tweets
+```
+python3 get_ids_from_harvard_dataset.py
+```
+
+### 2. Hydrate tweets
+Twarc's hydrate command will read a file of tweet identifiers and write out the tweet JSON for them using Twitter's status/lookup API.
+
+```
+twarc hydrate Raw/ids.txt > Processed/tweets.jsonl
+```
+### 3. generating train/test data set with class (deniers/believers)
+```
+python3 training_test.py
+```
+### 4. predict demographics (age, gender)
+```
+python3 get_age_gender.py
+```
+### 5. Make some exploratory analysis of the data. 
+```
+???????
+```
+
+
+
 
