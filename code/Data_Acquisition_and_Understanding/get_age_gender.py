@@ -11,20 +11,21 @@ path_img_data = "../../data/Raw/profile_imgs/"
 path_out = "../../data/Raw/data_age_gender.json"
 
 agender = PyAgender()
-raw_data = [json.loads(line) for line in open(path_raw_data, 'r')]
+#raw_data = [json.loads(line) for line in open(path_raw_data, 'r')]
+raw_data = json.loads(open(path_raw_data, 'r').readlines()[0])
 #df = pd.DataFrame(columns=["id", "age", "gender", "gender_predicted_value", "location", "profile_img_url"])
 
 df=[]
 #for user in pd.read_json(path_raw_data,  lines=True).iterrows():
 for i, user in enumerate(raw_data):
-    print(f"{i+1}/{len(raw_data)}")
+    if i % 10 == 0:
+        print(f"{i}/{len(raw_data)} ({round((i+1)/len(raw_data)*100,2)}%)")
 
     user["user"]["profile_img_url"] = user["user"]["profile_image_url"].replace("_normal", "")
     
     # Download and save image as a temp file
     filename, file_extension = os.path.splitext(user["user"]["profile_img_url"])
     _my_img_path = path_img_data + user["user"]["id_str"] + file_extension
-    urllib.request.urlretrieve(user["user"]["profile_img_url"], _my_img_path)
 
     if file_extension in ["", ".gif"]:
         # The face predict tool doesn't work with some type of imgs.
@@ -32,10 +33,11 @@ for i, user in enumerate(raw_data):
     else:
         # Predict age and gender
         try:
+            urllib.request.urlretrieve(user["user"]["profile_img_url"], _my_img_path)
             face_predict = agender.detect_genders_ages(cv2.imread(_my_img_path))
         except:
             face_predict = []
-            print(f"EXCEPT: {_my_img_path}")
+            print(f"EXCEPT: {_my_img_path}    {user['user']['profile_img_url']}")
     for f in face_predict:
         f["gender"] = float(round(f["gender"], 2))
         f["age"] = float(round(f["age"], 2))

@@ -6,7 +6,7 @@ import re
 """https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5QCCUU"""
 
 data_files=["https://dataverse.harvard.edu/api/access/datafile/:persistentId?persistentId=doi:10.7910/DVN/5QCCUU/QPYP8G"]
-LIMIT=50000
+LIMIT=500000
 out="../../data/raw/ids.txt"
 
 
